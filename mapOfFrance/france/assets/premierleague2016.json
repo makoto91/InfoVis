@@ -1,0 +1,7411 @@
+[{
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Hull",
+    "pub": 21037,
+    "hts": "1-0",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Swansea",
+    "teamHome": "Burnley",
+    "pub": 19126,
+    "hts": "0-1",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "West Bromwich",
+    "teamHome": "Crystal P",
+    "pub": 24490,
+    "hts": "0-0",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Everton",
+    "pub": 34494,
+    "hts": "1-0",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "Middlesbrough",
+    "pub": 32110,
+    "hts": "1-0",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Watford",
+    "teamHome": "Southampton",
+    "pub": 31488,
+    "hts": "0-1",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Manchester C",
+    "pub": 54362,
+    "hts": "1-0",
+    "realdate": "Sat 13.08.16",
+    "time": "Sat 13.08.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Bournemouth",
+    "pub": 11355,
+    "hts": "0-1",
+    "realdate": "Sun 13.08.16",
+    "time": "Sun 13.08.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 3,
+    "teamAway": "Liverpool",
+    "teamHome": "Arsenal",
+    "pub": 60033,
+    "hts": "1-1",
+    "realdate": "Sun 13.08.16",
+    "time": "Sun 13.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "West Ham",
+    "teamHome": "Chelsea",
+    "pub": 41521,
+    "hts": "0-0",
+    "realdate": "Mon 15.08.16",
+    "time": "Mon 15.08.16"
+  }],
+  "ranking": [{
+    "team": "Manchester U",
+    "pts": 3,
+    "bp": 3,
+    "bc": 1
+  }, {
+    "team": "Liverpool",
+    "pts": 3,
+    "bp": 4,
+    "bc": 3
+  }, {
+    "team": "Hull",
+    "pts": 3,
+    "bp": 2,
+    "bc": 1
+  }, {
+    "team": "Manchester C",
+    "pts": 3,
+    "bp": 2,
+    "bc": 1
+  }, {
+    "team": "Chelsea",
+    "pts": 3,
+    "bp": 2,
+    "bc": 1
+  }, {
+    "team": "Swansea",
+    "pts": 3,
+    "bp": 1,
+    "bc": 0
+  }, {
+    "team": "West Bromwich",
+    "pts": 3,
+    "bp": 1,
+    "bc": 0
+  }, {
+    "team": "Everton",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Tottenham",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Middlesbrough",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Stoke",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Southampton",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Watford",
+    "pts": 1,
+    "bp": 1,
+    "bc": 1
+  }, {
+    "team": "Arsenal",
+    "pts": 0,
+    "bp": 3,
+    "bc": 4
+  }, {
+    "team": "Leicester",
+    "pts": 0,
+    "bp": 1,
+    "bc": 2
+  }, {
+    "team": "Sunderland",
+    "pts": 0,
+    "bp": 1,
+    "bc": 2
+  }, {
+    "team": "West Ham",
+    "pts": 0,
+    "bp": 1,
+    "bc": 2
+  }, {
+    "team": "Burnley",
+    "pts": 0,
+    "bp": 0,
+    "bc": 1
+  }, {
+    "team": "Crystal P",
+    "pts": 0,
+    "bp": 0,
+    "bc": 1
+  }, {
+    "team": "Bournemouth",
+    "pts": 0,
+    "bp": 1,
+    "bc": 3
+  }],
+  "minPts": 0,
+  "maxPts": 3
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Southampton",
+    "teamHome": "Manchester U",
+    "pub": 75326,
+    "hts": "1-0",
+    "realdate": "Fri 19.08.16",
+    "time": "Fri 19.08.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Stoke",
+    "pub": 27455,
+    "hts": "0-2",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Liverpool",
+    "teamHome": "Burnley",
+    "pub": 21313,
+    "hts": "2-0",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Hull",
+    "teamHome": "Swansea",
+    "pub": 20024,
+    "hts": "0-0",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Tottenham",
+    "pub": 31447,
+    "hts": "0-0",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Watford",
+    "pub": 20772,
+    "hts": "0-0",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "West Bromwich",
+    "pub": 23654,
+    "hts": "1-1",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Arsenal",
+    "teamHome": "Leicester",
+    "pub": 32008,
+    "hts": "0-0",
+    "realdate": "Sat 20.08.16",
+    "time": "Sat 20.08.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Sunderland",
+    "pub": 43515,
+    "hts": "0-2",
+    "realdate": "Sun 21.08.16",
+    "time": "Sun 21.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Bournemouth",
+    "teamHome": "West Ham",
+    "pub": 56977,
+    "hts": "0-0",
+    "realdate": "Sun 21.08.16",
+    "time": "Sun 21.08.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 6,
+    "bp": 6,
+    "bc": 2
+  }, {
+    "team": "Manchester U",
+    "pts": 6,
+    "bp": 5,
+    "bc": 1
+  }, {
+    "team": "Hull",
+    "pts": 6,
+    "bp": 4,
+    "bc": 1
+  }, {
+    "team": "Chelsea",
+    "pts": 6,
+    "bp": 4,
+    "bc": 2
+  }, {
+    "team": "Everton",
+    "pts": 4,
+    "bp": 3,
+    "bc": 2
+  }, {
+    "team": "Middlesbrough",
+    "pts": 4,
+    "bp": 3,
+    "bc": 2
+  }, {
+    "team": "Tottenham",
+    "pts": 4,
+    "bp": 2,
+    "bc": 1
+  }, {
+    "team": "Burnley",
+    "pts": 3,
+    "bp": 2,
+    "bc": 1
+  }, {
+    "team": "West Bromwich",
+    "pts": 3,
+    "bp": 2,
+    "bc": 2
+  }, {
+    "team": "West Ham",
+    "pts": 3,
+    "bp": 2,
+    "bc": 2
+  }, {
+    "team": "Liverpool",
+    "pts": 3,
+    "bp": 4,
+    "bc": 5
+  }, {
+    "team": "Swansea",
+    "pts": 3,
+    "bp": 1,
+    "bc": 2
+  }, {
+    "team": "Arsenal",
+    "pts": 1,
+    "bp": 3,
+    "bc": 4
+  }, {
+    "team": "Watford",
+    "pts": 1,
+    "bp": 2,
+    "bc": 3
+  }, {
+    "team": "Leicester",
+    "pts": 1,
+    "bp": 1,
+    "bc": 2
+  }, {
+    "team": "Southampton",
+    "pts": 1,
+    "bp": 1,
+    "bc": 3
+  }, {
+    "team": "Stoke",
+    "pts": 1,
+    "bp": 2,
+    "bc": 5
+  }, {
+    "team": "Sunderland",
+    "pts": 0,
+    "bp": 2,
+    "bc": 4
+  }, {
+    "team": "Crystal P",
+    "pts": 0,
+    "bp": 0,
+    "bc": 2
+  }, {
+    "team": "Bournemouth",
+    "pts": 0,
+    "bp": 1,
+    "bc": 4
+  }],
+  "minPts": 0,
+  "maxPts": 6
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Tottenham",
+    "pub": 31211,
+    "hts": "0-1",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Burnley",
+    "teamHome": "Chelsea",
+    "pub": 41607,
+    "hts": "2-0",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Bournemouth",
+    "teamHome": "Crystal P",
+    "pub": 23503,
+    "hts": "0-1",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "Everton",
+    "pub": 39581,
+    "hts": "0-0",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Swansea",
+    "teamHome": "Leicester",
+    "pub": 31727,
+    "hts": "1-0",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "Southampton",
+    "pub": 30152,
+    "hts": "1-1",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Watford",
+    "pub": 20545,
+    "hts": "0-3",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Hull",
+    "pub": 24560,
+    "hts": "0-0",
+    "realdate": "Sat 27.08.16",
+    "time": "Sat 27.08.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Middlesbrough",
+    "teamHome": "West Bromwich",
+    "pub": 23690,
+    "hts": "0-0",
+    "realdate": "Sun 28.08.16",
+    "time": "Sun 28.08.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "West Ham",
+    "teamHome": "Manchester C",
+    "pub": 54008,
+    "hts": "2-0",
+    "realdate": "Sun 28.08.16",
+    "time": "Sun 28.08.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 9,
+    "bp": 9,
+    "bc": 3
+  }, {
+    "team": "Chelsea",
+    "pts": 9,
+    "bp": 7,
+    "bc": 2
+  }, {
+    "team": "Manchester U",
+    "pts": 9,
+    "bp": 6,
+    "bc": 1
+  }, {
+    "team": "Everton",
+    "pts": 7,
+    "bp": 4,
+    "bc": 2
+  }, {
+    "team": "Hull",
+    "pts": 6,
+    "bp": 4,
+    "bc": 2
+  }, {
+    "team": "Tottenham",
+    "pts": 5,
+    "bp": 3,
+    "bc": 2
+  }, {
+    "team": "Middlesbrough",
+    "pts": 5,
+    "bp": 3,
+    "bc": 2
+  }, {
+    "team": "Arsenal",
+    "pts": 4,
+    "bp": 6,
+    "bc": 5
+  }, {
+    "team": "Leicester",
+    "pts": 4,
+    "bp": 3,
+    "bc": 3
+  }, {
+    "team": "West Bromwich",
+    "pts": 4,
+    "bp": 2,
+    "bc": 2
+  }, {
+    "team": "Liverpool",
+    "pts": 4,
+    "bp": 5,
+    "bc": 6
+  }, {
+    "team": "West Ham",
+    "pts": 3,
+    "bp": 3,
+    "bc": 5
+  }, {
+    "team": "Burnley",
+    "pts": 3,
+    "bp": 2,
+    "bc": 4
+  }, {
+    "team": "Swansea",
+    "pts": 3,
+    "bp": 2,
+    "bc": 4
+  }, {
+    "team": "Southampton",
+    "pts": 2,
+    "bp": 2,
+    "bc": 4
+  }, {
+    "team": "Sunderland",
+    "pts": 1,
+    "bp": 3,
+    "bc": 5
+  }, {
+    "team": "Crystal P",
+    "pts": 1,
+    "bp": 1,
+    "bc": 3
+  }, {
+    "team": "Watford",
+    "pts": 1,
+    "bp": 3,
+    "bc": 6
+  }, {
+    "team": "Bournemouth",
+    "pts": 1,
+    "bp": 2,
+    "bc": 5
+  }, {
+    "team": "Stoke",
+    "pts": 1,
+    "bp": 2,
+    "bc": 6
+  }],
+  "minPts": 1,
+  "maxPts": 9
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Manchester U",
+    "pub": 75272,
+    "hts": "1-2",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Bournemouth",
+    "pub": 11184,
+    "hts": "0-0",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Southampton",
+    "teamHome": "Arsenal",
+    "pub": 59962,
+    "hts": "1-1",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Hull",
+    "teamHome": "Burnley",
+    "pub": 18803,
+    "hts": "0-0",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Middlesbrough",
+    "pub": 30551,
+    "hts": "1-1",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Tottenham",
+    "teamHome": "Stoke",
+    "pub": 27385,
+    "hts": "0-1",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "West Ham",
+    "pub": 56974,
+    "hts": "2-2",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 4,
+    "teamAway": "Leicester",
+    "teamHome": "Liverpool",
+    "pub": 51232,
+    "hts": "2-1",
+    "realdate": "Sat 10.09.16",
+    "time": "Sat 10.09.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Chelsea",
+    "teamHome": "Swansea",
+    "pub": 20865,
+    "hts": "0-1",
+    "realdate": "Sun 11.09.16",
+    "time": "Sun 11.09.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Everton",
+    "teamHome": "Sunderland",
+    "pub": 42406,
+    "hts": "0-0",
+    "realdate": "Mon 12.09.16",
+    "time": "Mon 12.09.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 12,
+    "bp": 11,
+    "bc": 4
+  }, {
+    "team": "Chelsea",
+    "pts": 10,
+    "bp": 9,
+    "bc": 4
+  }, {
+    "team": "Everton",
+    "pts": 10,
+    "bp": 7,
+    "bc": 2
+  }, {
+    "team": "Manchester U",
+    "pts": 9,
+    "bp": 7,
+    "bc": 3
+  }, {
+    "team": "Tottenham",
+    "pts": 8,
+    "bp": 7,
+    "bc": 2
+  }, {
+    "team": "Liverpool",
+    "pts": 7,
+    "bp": 9,
+    "bc": 7
+  }, {
+    "team": "Arsenal",
+    "pts": 7,
+    "bp": 8,
+    "bc": 6
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 5,
+    "bc": 3
+  }, {
+    "team": "Middlesbrough",
+    "pts": 5,
+    "bp": 4,
+    "bc": 4
+  }, {
+    "team": "Watford",
+    "pts": 4,
+    "bp": 7,
+    "bc": 8
+  }, {
+    "team": "Crystal P",
+    "pts": 4,
+    "bp": 3,
+    "bc": 4
+  }, {
+    "team": "West Bromwich",
+    "pts": 4,
+    "bp": 2,
+    "bc": 3
+  }, {
+    "team": "Swansea",
+    "pts": 4,
+    "bp": 4,
+    "bc": 6
+  }, {
+    "team": "Burnley",
+    "pts": 4,
+    "bp": 3,
+    "bc": 5
+  }, {
+    "team": "Bournemouth",
+    "pts": 4,
+    "bp": 3,
+    "bc": 5
+  }, {
+    "team": "Leicester",
+    "pts": 4,
+    "bp": 4,
+    "bc": 7
+  }, {
+    "team": "West Ham",
+    "pts": 3,
+    "bp": 5,
+    "bc": 9
+  }, {
+    "team": "Southampton",
+    "pts": 2,
+    "bp": 3,
+    "bc": 6
+  }, {
+    "team": "Sunderland",
+    "pts": 1,
+    "bp": 3,
+    "bc": 8
+  }, {
+    "team": "Stoke",
+    "pts": 1,
+    "bp": 2,
+    "bc": 10
+  }],
+  "minPts": 1,
+  "maxPts": 12
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Chelsea",
+    "pub": 41514,
+    "hts": "0-2",
+    "realdate": "Fri 16.09.16",
+    "time": "Fri 16.09.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Hull",
+    "pub": 22536,
+    "hts": "0-1",
+    "realdate": "Sat 17.09.16",
+    "time": "Sat 17.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Burnley",
+    "teamHome": "Leicester",
+    "pub": 31916,
+    "hts": "1-0",
+    "realdate": "Sat 17.09.16",
+    "time": "Sat 17.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Bournemouth",
+    "teamHome": "Manchester C",
+    "pub": 54335,
+    "hts": "2-0",
+    "realdate": "Sat 17.09.16",
+    "time": "Sat 17.09.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "West Ham",
+    "teamHome": "West Bromwich",
+    "pub": 22209,
+    "hts": "3-0",
+    "realdate": "Sat 17.09.16",
+    "time": "Sat 17.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Everton",
+    "pub": 39074,
+    "hts": "3-1",
+    "realdate": "Sat 17.09.16",
+    "time": "Sat 17.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Manchester U",
+    "teamHome": "Watford",
+    "pub": 21118,
+    "hts": "1-0",
+    "realdate": "Sun 18.09.16",
+    "time": "Sun 18.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 4,
+    "teamAway": "Stoke",
+    "teamHome": "Crystal P",
+    "pub": 23781,
+    "hts": "2-0",
+    "realdate": "Sun 18.09.16",
+    "time": "Sun 18.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "Southampton",
+    "pub": 29087,
+    "hts": "0-0",
+    "realdate": "Sun 18.09.16",
+    "time": "Sun 18.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "Tottenham",
+    "pub": 31251,
+    "hts": "0-0",
+    "realdate": "Sun 18.09.16",
+    "time": "Sun 18.09.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 15,
+    "bp": 15,
+    "bc": 4
+  }, {
+    "team": "Everton",
+    "pts": 13,
+    "bp": 10,
+    "bc": 3
+  }, {
+    "team": "Tottenham",
+    "pts": 11,
+    "bp": 8,
+    "bc": 2
+  }, {
+    "team": "Arsenal",
+    "pts": 10,
+    "bp": 12,
+    "bc": 7
+  }, {
+    "team": "Chelsea",
+    "pts": 10,
+    "bp": 10,
+    "bc": 6
+  }, {
+    "team": "Liverpool",
+    "pts": 10,
+    "bp": 11,
+    "bc": 8
+  }, {
+    "team": "Manchester U",
+    "pts": 9,
+    "bp": 8,
+    "bc": 6
+  }, {
+    "team": "Crystal P",
+    "pts": 7,
+    "bp": 7,
+    "bc": 5
+  }, {
+    "team": "Watford",
+    "pts": 7,
+    "bp": 10,
+    "bc": 9
+  }, {
+    "team": "West Bromwich",
+    "pts": 7,
+    "bp": 6,
+    "bc": 5
+  }, {
+    "team": "Leicester",
+    "pts": 7,
+    "bp": 7,
+    "bc": 7
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 6,
+    "bc": 7
+  }, {
+    "team": "Middlesbrough",
+    "pts": 5,
+    "bp": 5,
+    "bc": 7
+  }, {
+    "team": "Southampton",
+    "pts": 5,
+    "bp": 4,
+    "bc": 6
+  }, {
+    "team": "Swansea",
+    "pts": 4,
+    "bp": 4,
+    "bc": 7
+  }, {
+    "team": "Burnley",
+    "pts": 4,
+    "bp": 3,
+    "bc": 8
+  }, {
+    "team": "Bournemouth",
+    "pts": 4,
+    "bp": 3,
+    "bc": 9
+  }, {
+    "team": "West Ham",
+    "pts": 3,
+    "bp": 7,
+    "bc": 13
+  }, {
+    "team": "Sunderland",
+    "pts": 1,
+    "bp": 3,
+    "bc": 9
+  }, {
+    "team": "Stoke",
+    "pts": 1,
+    "bp": 3,
+    "bc": 14
+  }],
+  "minPts": 1,
+  "maxPts": 15
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 4,
+    "teamAway": "Leicester",
+    "teamHome": "Manchester U",
+    "pub": 75256,
+    "hts": "4-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Bournemouth",
+    "pub": 11291,
+    "hts": "1-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 5,
+    "teamAway": "Hull",
+    "teamHome": "Liverpool",
+    "pub": 53109,
+    "hts": "3-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Middlesbrough",
+    "pub": 32703,
+    "hts": "0-2",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Stoke",
+    "pub": 27645,
+    "hts": "0-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 2,
+    "teamAway": "Crystal P",
+    "teamHome": "Sunderland",
+    "pub": 38941,
+    "hts": "1-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Swansea",
+    "pub": 20786,
+    "hts": "1-1",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Chelsea",
+    "teamHome": "Arsenal",
+    "pub": 60028,
+    "hts": "3-0",
+    "realdate": "Sat 24.09.16",
+    "time": "Sat 24.09.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "West Ham",
+    "pub": 56864,
+    "hts": "0-1",
+    "realdate": "Sun 25.09.16",
+    "time": "Sun 25.09.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Burnley",
+    "pub": 18519,
+    "hts": "1-0",
+    "realdate": "Mon 26.09.16",
+    "time": "Mon 26.09.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 18,
+    "bp": 18,
+    "bc": 5
+  }, {
+    "team": "Tottenham",
+    "pts": 14,
+    "bp": 10,
+    "bc": 3
+  }, {
+    "team": "Arsenal",
+    "pts": 13,
+    "bp": 15,
+    "bc": 7
+  }, {
+    "team": "Liverpool",
+    "pts": 13,
+    "bp": 16,
+    "bc": 9
+  }, {
+    "team": "Everton",
+    "pts": 13,
+    "bp": 10,
+    "bc": 4
+  }, {
+    "team": "Manchester U",
+    "pts": 12,
+    "bp": 12,
+    "bc": 7
+  }, {
+    "team": "Crystal P",
+    "pts": 10,
+    "bp": 10,
+    "bc": 7
+  }, {
+    "team": "Chelsea",
+    "pts": 10,
+    "bp": 10,
+    "bc": 9
+  }, {
+    "team": "West Bromwich",
+    "pts": 8,
+    "bp": 7,
+    "bc": 6
+  }, {
+    "team": "Southampton",
+    "pts": 8,
+    "bp": 7,
+    "bc": 6
+  }, {
+    "team": "Watford",
+    "pts": 7,
+    "bp": 10,
+    "bc": 11
+  }, {
+    "team": "Leicester",
+    "pts": 7,
+    "bp": 8,
+    "bc": 11
+  }, {
+    "team": "Burnley",
+    "pts": 7,
+    "bp": 5,
+    "bc": 8
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 7,
+    "bc": 12
+  }, {
+    "team": "Bournemouth",
+    "pts": 7,
+    "bp": 4,
+    "bc": 9
+  }, {
+    "team": "Middlesbrough",
+    "pts": 5,
+    "bp": 6,
+    "bc": 9
+  }, {
+    "team": "Swansea",
+    "pts": 4,
+    "bp": 5,
+    "bc": 10
+  }, {
+    "team": "West Ham",
+    "pts": 3,
+    "bp": 7,
+    "bc": 16
+  }, {
+    "team": "Stoke",
+    "pts": 2,
+    "bp": 4,
+    "bc": 15
+  }, {
+    "team": "Sunderland",
+    "pts": 1,
+    "bp": 5,
+    "bc": 12
+  }],
+  "minPts": 1,
+  "maxPts": 18
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Everton",
+    "pub": 38758,
+    "hts": "1-0",
+    "realdate": "Fri 30.09.16",
+    "time": "Fri 30.09.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Swansea",
+    "pub": 20862,
+    "hts": "0-1",
+    "realdate": "Sat 01.10.16",
+    "time": "Sat 01.10.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Hull",
+    "pub": 21257,
+    "hts": "0-0",
+    "realdate": "Sat 01.10.16",
+    "time": "Sat 01.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Sunderland",
+    "pub": 40043,
+    "hts": "0-1",
+    "realdate": "Sat 01.10.16",
+    "time": "Sat 01.10.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Bournemouth",
+    "teamHome": "Watford",
+    "pub": 20575,
+    "hts": "0-1",
+    "realdate": "Sat 01.10.16",
+    "time": "Sat 01.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "West Ham",
+    "pub": 56945,
+    "hts": "0-0",
+    "realdate": "Sat 01.10.16",
+    "time": "Sat 01.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "Manchester U",
+    "pub": 75251,
+    "hts": "0-0",
+    "realdate": "Sun 02.10.16",
+    "time": "Sun 02.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "Leicester",
+    "pub": 31563,
+    "hts": "0-0",
+    "realdate": "Sun 02.10.16",
+    "time": "Sun 02.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Manchester C",
+    "teamHome": "Tottenham",
+    "pub": 31793,
+    "hts": "2-0",
+    "realdate": "Sun 02.10.16",
+    "time": "Sun 02.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Arsenal",
+    "teamHome": "Burnley",
+    "pub": 20982,
+    "hts": "0-0",
+    "realdate": "Sun 02.10.16",
+    "time": "Sun 02.10.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 18,
+    "bp": 18,
+    "bc": 7
+  }, {
+    "team": "Tottenham",
+    "pts": 17,
+    "bp": 12,
+    "bc": 3
+  }, {
+    "team": "Arsenal",
+    "pts": 16,
+    "bp": 16,
+    "bc": 7
+  }, {
+    "team": "Liverpool",
+    "pts": 16,
+    "bp": 18,
+    "bc": 10
+  }, {
+    "team": "Everton",
+    "pts": 14,
+    "bp": 11,
+    "bc": 5
+  }, {
+    "team": "Manchester U",
+    "pts": 13,
+    "bp": 13,
+    "bc": 8
+  }, {
+    "team": "Chelsea",
+    "pts": 13,
+    "bp": 12,
+    "bc": 9
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 11,
+    "bc": 8
+  }, {
+    "team": "West Bromwich",
+    "pts": 9,
+    "bp": 8,
+    "bc": 7
+  }, {
+    "team": "Southampton",
+    "pts": 9,
+    "bp": 7,
+    "bc": 6
+  }, {
+    "team": "Watford",
+    "pts": 8,
+    "bp": 12,
+    "bc": 13
+  }, {
+    "team": "Leicester",
+    "pts": 8,
+    "bp": 8,
+    "bc": 11
+  }, {
+    "team": "Bournemouth",
+    "pts": 8,
+    "bp": 6,
+    "bc": 11
+  }, {
+    "team": "Burnley",
+    "pts": 7,
+    "bp": 5,
+    "bc": 9
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 7,
+    "bc": 14
+  }, {
+    "team": "Middlesbrough",
+    "pts": 6,
+    "bp": 7,
+    "bc": 10
+  }, {
+    "team": "Swansea",
+    "pts": 4,
+    "bp": 6,
+    "bc": 12
+  }, {
+    "team": "West Ham",
+    "pts": 4,
+    "bp": 8,
+    "bc": 17
+  }, {
+    "team": "Stoke",
+    "pts": 3,
+    "bp": 5,
+    "bc": 16
+  }, {
+    "team": "Sunderland",
+    "pts": 2,
+    "bp": 6,
+    "bc": 13
+  }],
+  "minPts": 2,
+  "maxPts": 18
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Leicester",
+    "teamHome": "Chelsea",
+    "pub": 41457,
+    "hts": "2-0",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 6,
+    "teamAway": "Hull",
+    "teamHome": "Bournemouth",
+    "pub": 11029,
+    "hts": "3-1",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Swansea",
+    "teamHome": "Arsenal",
+    "pub": 60007,
+    "hts": "2-1",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Manchester C",
+    "pub": 54512,
+    "hts": "0-0",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Stoke",
+    "pub": 27701,
+    "hts": "2-0",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "West Bromwich",
+    "pub": 24263,
+    "hts": "0-0",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "West Ham",
+    "teamHome": "Crystal P",
+    "pub": 25643,
+    "hts": "0-1",
+    "realdate": "Sat 15.10.16",
+    "time": "Sat 15.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Watford",
+    "teamHome": "Middlesbrough",
+    "pub": 28131,
+    "hts": "0-0",
+    "realdate": "Sun 16.10.16",
+    "time": "Sun 16.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Burnley",
+    "teamHome": "Southampton",
+    "pub": 29040,
+    "hts": "0-0",
+    "realdate": "Sun 16.10.16",
+    "time": "Sun 16.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Liverpool",
+    "pub": 52769,
+    "hts": "0-0",
+    "realdate": "Mon 17.10.16",
+    "time": "Mon 17.10.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 19,
+    "bp": 19,
+    "bc": 8
+  }, {
+    "team": "Arsenal",
+    "pts": 19,
+    "bp": 19,
+    "bc": 9
+  }, {
+    "team": "Tottenham",
+    "pts": 18,
+    "bp": 13,
+    "bc": 4
+  }, {
+    "team": "Liverpool",
+    "pts": 17,
+    "bp": 18,
+    "bc": 10
+  }, {
+    "team": "Chelsea",
+    "pts": 16,
+    "bp": 15,
+    "bc": 9
+  }, {
+    "team": "Everton",
+    "pts": 15,
+    "bp": 12,
+    "bc": 6
+  }, {
+    "team": "Manchester U",
+    "pts": 14,
+    "bp": 13,
+    "bc": 8
+  }, {
+    "team": "Southampton",
+    "pts": 12,
+    "bp": 10,
+    "bc": 7
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 11,
+    "bc": 9
+  }, {
+    "team": "Watford",
+    "pts": 11,
+    "bp": 13,
+    "bc": 13
+  }, {
+    "team": "Bournemouth",
+    "pts": 11,
+    "bp": 12,
+    "bc": 12
+  }, {
+    "team": "West Bromwich",
+    "pts": 10,
+    "bp": 9,
+    "bc": 8
+  }, {
+    "team": "Leicester",
+    "pts": 8,
+    "bp": 8,
+    "bc": 14
+  }, {
+    "team": "Burnley",
+    "pts": 7,
+    "bp": 6,
+    "bc": 12
+  }, {
+    "team": "West Ham",
+    "pts": 7,
+    "bp": 9,
+    "bc": 17
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 8,
+    "bc": 20
+  }, {
+    "team": "Middlesbrough",
+    "pts": 6,
+    "bp": 7,
+    "bc": 11
+  }, {
+    "team": "Stoke",
+    "pts": 6,
+    "bp": 7,
+    "bc": 16
+  }, {
+    "team": "Swansea",
+    "pts": 4,
+    "bp": 8,
+    "bc": 15
+  }, {
+    "team": "Sunderland",
+    "pts": 2,
+    "bp": 6,
+    "bc": 15
+  }],
+  "minPts": 2,
+  "maxPts": 19
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Tottenham",
+    "teamHome": "Bournemouth",
+    "pub": 11201,
+    "hts": "0-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Arsenal",
+    "pub": 59962,
+    "hts": "0-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Everton",
+    "teamHome": "Burnley",
+    "pub": 21416,
+    "hts": "1-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Stoke",
+    "teamHome": "Hull",
+    "pub": 18522,
+    "hts": "0-1",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Crystal P",
+    "teamHome": "Leicester",
+    "pub": 31969,
+    "hts": "1-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Watford",
+    "teamHome": "Swansea",
+    "pub": 20694,
+    "hts": "0-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "West Ham",
+    "pub": 56985,
+    "hts": "0-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "West Bromwich",
+    "teamHome": "Liverpool",
+    "pub": 53218,
+    "hts": "2-0",
+    "realdate": "Sat 22.10.16",
+    "time": "Sat 22.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Southampton",
+    "teamHome": "Manchester C",
+    "pub": 53731,
+    "hts": "0-1",
+    "realdate": "Sun 23.10.16",
+    "time": "Sun 23.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Manchester U",
+    "teamHome": "Chelsea",
+    "pub": 41424,
+    "hts": "2-0",
+    "realdate": "Sun 23.10.16",
+    "time": "Sun 23.10.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 20,
+    "bp": 20,
+    "bc": 9
+  }, {
+    "team": "Arsenal",
+    "pts": 20,
+    "bp": 19,
+    "bc": 9
+  }, {
+    "team": "Liverpool",
+    "pts": 20,
+    "bp": 20,
+    "bc": 11
+  }, {
+    "team": "Chelsea",
+    "pts": 19,
+    "bp": 19,
+    "bc": 9
+  }, {
+    "team": "Tottenham",
+    "pts": 19,
+    "bp": 13,
+    "bc": 4
+  }, {
+    "team": "Everton",
+    "pts": 15,
+    "bp": 13,
+    "bc": 8
+  }, {
+    "team": "Manchester U",
+    "pts": 14,
+    "bp": 13,
+    "bc": 12
+  }, {
+    "team": "Southampton",
+    "pts": 13,
+    "bp": 11,
+    "bc": 8
+  }, {
+    "team": "Watford",
+    "pts": 12,
+    "bp": 13,
+    "bc": 13
+  }, {
+    "team": "Bournemouth",
+    "pts": 12,
+    "bp": 12,
+    "bc": 12
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 12,
+    "bc": 12
+  }, {
+    "team": "Leicester",
+    "pts": 11,
+    "bp": 11,
+    "bc": 15
+  }, {
+    "team": "West Bromwich",
+    "pts": 10,
+    "bp": 10,
+    "bc": 10
+  }, {
+    "team": "Burnley",
+    "pts": 10,
+    "bp": 8,
+    "bc": 13
+  }, {
+    "team": "West Ham",
+    "pts": 10,
+    "bp": 10,
+    "bc": 17
+  }, {
+    "team": "Stoke",
+    "pts": 9,
+    "bp": 9,
+    "bc": 16
+  }, {
+    "team": "Middlesbrough",
+    "pts": 7,
+    "bp": 7,
+    "bc": 11
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 8,
+    "bc": 22
+  }, {
+    "team": "Swansea",
+    "pts": 5,
+    "bp": 8,
+    "bc": 15
+  }, {
+    "team": "Sunderland",
+    "pts": 2,
+    "bp": 6,
+    "bc": 16
+  }],
+  "minPts": 2,
+  "maxPts": 20
+}, {
+  "gameList": [{
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Sunderland",
+    "pub": 44322,
+    "hts": "0-1",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Burnley",
+    "teamHome": "Manchester U",
+    "pub": 75325,
+    "hts": "0-0",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Bournemouth",
+    "teamHome": "Middlesbrough",
+    "pub": 29600,
+    "hts": "1-0",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Leicester",
+    "teamHome": "Tottenham",
+    "pub": 31868,
+    "hts": "1-0",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Hull",
+    "teamHome": "Watford",
+    "pub": 20022,
+    "hts": "0-0",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "West Bromwich",
+    "pub": 22470,
+    "hts": "0-2",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 2,
+    "teamAway": "Liverpool",
+    "teamHome": "Crystal P",
+    "pub": 25628,
+    "hts": "2-3",
+    "realdate": "Sat 29.10.16",
+    "time": "Sat 29.10.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "West Ham",
+    "teamHome": "Everton",
+    "pub": 39574,
+    "hts": "0-0",
+    "realdate": "Sun 30.10.16",
+    "time": "Sun 30.10.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Southampton",
+    "pub": 31827,
+    "hts": "0-1",
+    "realdate": "Sun 30.10.16",
+    "time": "Sun 30.10.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Swansea",
+    "teamHome": "Stoke",
+    "pub": 26602,
+    "hts": "1-1",
+    "realdate": "Mon 31.11.16",
+    "time": "Mon 31.11.16"
+  }],
+  "ranking": [{
+    "team": "Manchester C",
+    "pts": 23,
+    "bp": 24,
+    "bc": 9
+  }, {
+    "team": "Arsenal",
+    "pts": 23,
+    "bp": 23,
+    "bc": 10
+  }, {
+    "team": "Liverpool",
+    "pts": 23,
+    "bp": 24,
+    "bc": 13
+  }, {
+    "team": "Chelsea",
+    "pts": 22,
+    "bp": 21,
+    "bc": 9
+  }, {
+    "team": "Tottenham",
+    "pts": 20,
+    "bp": 14,
+    "bc": 5
+  }, {
+    "team": "Everton",
+    "pts": 18,
+    "bp": 15,
+    "bc": 8
+  }, {
+    "team": "Watford",
+    "pts": 15,
+    "bp": 14,
+    "bc": 13
+  }, {
+    "team": "Manchester U",
+    "pts": 15,
+    "bp": 13,
+    "bc": 12
+  }, {
+    "team": "Southampton",
+    "pts": 13,
+    "bp": 11,
+    "bc": 10
+  }, {
+    "team": "Bournemouth",
+    "pts": 12,
+    "bp": 12,
+    "bc": 14
+  }, {
+    "team": "Leicester",
+    "pts": 12,
+    "bp": 12,
+    "bc": 16
+  }, {
+    "team": "Stoke",
+    "pts": 12,
+    "bp": 12,
+    "bc": 17
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 14,
+    "bc": 16
+  }, {
+    "team": "Burnley",
+    "pts": 11,
+    "bp": 8,
+    "bc": 13
+  }, {
+    "team": "Middlesbrough",
+    "pts": 10,
+    "bp": 9,
+    "bc": 11
+  }, {
+    "team": "West Bromwich",
+    "pts": 10,
+    "bp": 10,
+    "bc": 14
+  }, {
+    "team": "West Ham",
+    "pts": 10,
+    "bp": 10,
+    "bc": 19
+  }, {
+    "team": "Hull",
+    "pts": 7,
+    "bp": 8,
+    "bc": 23
+  }, {
+    "team": "Swansea",
+    "pts": 5,
+    "bp": 9,
+    "bc": 18
+  }, {
+    "team": "Sunderland",
+    "pts": 2,
+    "bp": 7,
+    "bc": 20
+  }],
+  "minPts": 2,
+  "maxPts": 23
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "Bournemouth",
+    "pub": 11084,
+    "hts": "1-1",
+    "realdate": "Sat 05.11.16",
+    "time": "Sat 05.11.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Crystal P",
+    "teamHome": "Burnley",
+    "pub": 19196,
+    "hts": "2-0",
+    "realdate": "Sat 05.11.16",
+    "time": "Sat 05.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Manchester C",
+    "pub": 54294,
+    "hts": "1-0",
+    "realdate": "Sat 05.11.16",
+    "time": "Sat 05.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "West Ham",
+    "pub": 56970,
+    "hts": "0-0",
+    "realdate": "Sat 05.11.16",
+    "time": "Sat 05.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 5,
+    "teamAway": "Everton",
+    "teamHome": "Chelsea",
+    "pub": 41429,
+    "hts": "3-0",
+    "realdate": "Sat 05.11.16",
+    "time": "Sat 05.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Arsenal",
+    "pub": 60039,
+    "hts": "1-0",
+    "realdate": "Sun 06.11.16",
+    "time": "Sun 06.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Southampton",
+    "teamHome": "Hull",
+    "pub": 17768,
+    "hts": "0-1",
+    "realdate": "Sun 06.11.16",
+    "time": "Sun 06.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 6,
+    "teamAway": "Watford",
+    "teamHome": "Liverpool",
+    "pub": 53163,
+    "hts": "3-0",
+    "realdate": "Sun 06.11.16",
+    "time": "Sun 06.11.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Swansea",
+    "pub": 20938,
+    "hts": "0-3",
+    "realdate": "Sun 06.11.16",
+    "time": "Sun 06.11.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Leicester",
+    "pub": 31879,
+    "hts": "0-0",
+    "realdate": "Sun 06.11.16",
+    "time": "Sun 06.11.16"
+  }],
+  "ranking": [{
+    "team": "Liverpool",
+    "pts": 26,
+    "bp": 30,
+    "bc": 14
+  }, {
+    "team": "Chelsea",
+    "pts": 25,
+    "bp": 26,
+    "bc": 9
+  }, {
+    "team": "Manchester C",
+    "pts": 24,
+    "bp": 25,
+    "bc": 10
+  }, {
+    "team": "Arsenal",
+    "pts": 24,
+    "bp": 24,
+    "bc": 11
+  }, {
+    "team": "Tottenham",
+    "pts": 21,
+    "bp": 15,
+    "bc": 6
+  }, {
+    "team": "Manchester U",
+    "pts": 18,
+    "bp": 16,
+    "bc": 13
+  }, {
+    "team": "Everton",
+    "pts": 18,
+    "bp": 15,
+    "bc": 13
+  }, {
+    "team": "Watford",
+    "pts": 15,
+    "bp": 15,
+    "bc": 19
+  }, {
+    "team": "Burnley",
+    "pts": 14,
+    "bp": 11,
+    "bc": 15
+  }, {
+    "team": "Southampton",
+    "pts": 13,
+    "bp": 12,
+    "bc": 12
+  }, {
+    "team": "West Bromwich",
+    "pts": 13,
+    "bp": 12,
+    "bc": 15
+  }, {
+    "team": "Stoke",
+    "pts": 13,
+    "bp": 13,
+    "bc": 18
+  }, {
+    "team": "Bournemouth",
+    "pts": 12,
+    "bp": 13,
+    "bc": 16
+  }, {
+    "team": "Leicester",
+    "pts": 12,
+    "bp": 13,
+    "bc": 18
+  }, {
+    "team": "Middlesbrough",
+    "pts": 11,
+    "bp": 10,
+    "bc": 12
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 16,
+    "bc": 19
+  }, {
+    "team": "West Ham",
+    "pts": 11,
+    "bp": 11,
+    "bc": 20
+  }, {
+    "team": "Hull",
+    "pts": 10,
+    "bp": 10,
+    "bc": 24
+  }, {
+    "team": "Swansea",
+    "pts": 5,
+    "bp": 10,
+    "bc": 21
+  }, {
+    "team": "Sunderland",
+    "pts": 5,
+    "bp": 9,
+    "bc": 21
+  }],
+  "minPts": 5,
+  "maxPts": 26
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Manchester U",
+    "pub": 75264,
+    "hts": "0-0",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Crystal P",
+    "pub": 25529,
+    "hts": "0-1",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "Everton",
+    "pub": 38773,
+    "hts": "0-1",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "Southampton",
+    "pub": 31848,
+    "hts": "0-0",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Bournemouth",
+    "teamHome": "Stoke",
+    "pub": 27815,
+    "hts": "0-1",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "Sunderland",
+    "pub": 41271,
+    "hts": "1-0",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Watford",
+    "pub": 20640,
+    "hts": "2-1",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "West Ham",
+    "teamHome": "Tottenham",
+    "pub": 31212,
+    "hts": "0-1",
+    "realdate": "Sat 19.11.16",
+    "time": "Sat 19.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Middlesbrough",
+    "pub": 32704,
+    "hts": "0-1",
+    "realdate": "Sun 20.11.16",
+    "time": "Sun 20.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Burnley",
+    "teamHome": "West Bromwich",
+    "pub": 23016,
+    "hts": "3-0",
+    "realdate": "Mon 21.11.16",
+    "time": "Mon 21.11.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 28,
+    "bp": 27,
+    "bc": 9
+  }, {
+    "team": "Liverpool",
+    "pts": 27,
+    "bp": 30,
+    "bc": 14
+  }, {
+    "team": "Manchester C",
+    "pts": 27,
+    "bp": 27,
+    "bc": 11
+  }, {
+    "team": "Arsenal",
+    "pts": 25,
+    "bp": 25,
+    "bc": 12
+  }, {
+    "team": "Tottenham",
+    "pts": 24,
+    "bp": 18,
+    "bc": 8
+  }, {
+    "team": "Manchester U",
+    "pts": 19,
+    "bp": 17,
+    "bc": 14
+  }, {
+    "team": "Everton",
+    "pts": 19,
+    "bp": 16,
+    "bc": 14
+  }, {
+    "team": "Watford",
+    "pts": 18,
+    "bp": 17,
+    "bc": 20
+  }, {
+    "team": "West Bromwich",
+    "pts": 16,
+    "bp": 16,
+    "bc": 15
+  }, {
+    "team": "Bournemouth",
+    "pts": 15,
+    "bp": 14,
+    "bc": 16
+  }, {
+    "team": "Southampton",
+    "pts": 14,
+    "bp": 12,
+    "bc": 12
+  }, {
+    "team": "Burnley",
+    "pts": 14,
+    "bp": 11,
+    "bc": 19
+  }, {
+    "team": "Stoke",
+    "pts": 13,
+    "bp": 13,
+    "bc": 19
+  }, {
+    "team": "Leicester",
+    "pts": 12,
+    "bp": 14,
+    "bc": 20
+  }, {
+    "team": "Middlesbrough",
+    "pts": 11,
+    "bp": 10,
+    "bc": 13
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 17,
+    "bc": 21
+  }, {
+    "team": "West Ham",
+    "pts": 11,
+    "bp": 13,
+    "bc": 23
+  }, {
+    "team": "Hull",
+    "pts": 10,
+    "bp": 10,
+    "bc": 27
+  }, {
+    "team": "Sunderland",
+    "pts": 8,
+    "bp": 12,
+    "bc": 21
+  }, {
+    "team": "Swansea",
+    "pts": 6,
+    "bp": 11,
+    "bc": 22
+  }],
+  "minPts": 6,
+  "maxPts": 28
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Burnley",
+    "pub": 21794,
+    "hts": "1-1",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Hull",
+    "pub": 18086,
+    "hts": "0-1",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Leicester",
+    "pub": 32058,
+    "hts": "1-1",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Liverpool",
+    "pub": 53114,
+    "hts": "0-0",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 5,
+    "teamAway": "Crystal P",
+    "teamHome": "Swansea",
+    "pub": 20276,
+    "hts": "1-1",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Tottenham",
+    "teamHome": "Chelsea",
+    "pub": 41513,
+    "hts": "1-1",
+    "realdate": "Sat 26.11.16",
+    "time": "Sat 26.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Stoke",
+    "teamHome": "Watford",
+    "pub": 20058,
+    "hts": "0-1",
+    "realdate": "Sun 27.11.16",
+    "time": "Sun 27.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Bournemouth",
+    "teamHome": "Arsenal",
+    "pub": 59978,
+    "hts": "1-1",
+    "realdate": "Sun 27.11.16",
+    "time": "Sun 27.11.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Manchester U",
+    "pub": 75313,
+    "hts": "1-1",
+    "realdate": "Sun 27.11.16",
+    "time": "Sun 27.11.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Southampton",
+    "pub": 31132,
+    "hts": "1-0",
+    "realdate": "Sun 27.11.16",
+    "time": "Sun 27.11.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 31,
+    "bp": 29,
+    "bc": 10
+  }, {
+    "team": "Liverpool",
+    "pts": 30,
+    "bp": 32,
+    "bc": 14
+  }, {
+    "team": "Manchester C",
+    "pts": 30,
+    "bp": 29,
+    "bc": 12
+  }, {
+    "team": "Arsenal",
+    "pts": 28,
+    "bp": 28,
+    "bc": 13
+  }, {
+    "team": "Tottenham",
+    "pts": 24,
+    "bp": 19,
+    "bc": 10
+  }, {
+    "team": "Manchester U",
+    "pts": 20,
+    "bp": 18,
+    "bc": 15
+  }, {
+    "team": "Everton",
+    "pts": 19,
+    "bp": 16,
+    "bc": 15
+  }, {
+    "team": "Watford",
+    "pts": 18,
+    "bp": 17,
+    "bc": 21
+  }, {
+    "team": "West Bromwich",
+    "pts": 17,
+    "bp": 17,
+    "bc": 16
+  }, {
+    "team": "Southampton",
+    "pts": 17,
+    "bp": 13,
+    "bc": 12
+  }, {
+    "team": "Stoke",
+    "pts": 16,
+    "bp": 14,
+    "bc": 19
+  }, {
+    "team": "Bournemouth",
+    "pts": 15,
+    "bp": 15,
+    "bc": 19
+  }, {
+    "team": "Burnley",
+    "pts": 14,
+    "bp": 12,
+    "bc": 21
+  }, {
+    "team": "Leicester",
+    "pts": 13,
+    "bp": 16,
+    "bc": 22
+  }, {
+    "team": "Middlesbrough",
+    "pts": 12,
+    "bp": 12,
+    "bc": 15
+  }, {
+    "team": "West Ham",
+    "pts": 12,
+    "bp": 14,
+    "bc": 24
+  }, {
+    "team": "Crystal P",
+    "pts": 11,
+    "bp": 21,
+    "bc": 26
+  }, {
+    "team": "Hull",
+    "pts": 11,
+    "bp": 11,
+    "bc": 28
+  }, {
+    "team": "Swansea",
+    "pts": 9,
+    "bp": 16,
+    "bc": 26
+  }, {
+    "team": "Sunderland",
+    "pts": 8,
+    "bp": 12,
+    "bc": 23
+  }],
+  "minPts": 8,
+  "maxPts": 31
+}, {
+  "gameList": [{
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Manchester C",
+    "pub": 54457,
+    "hts": "1-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Southampton",
+    "teamHome": "Crystal P",
+    "pub": 25393,
+    "hts": "2-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Stoke",
+    "pub": 27306,
+    "hts": "2-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Sunderland",
+    "pub": 39725,
+    "hts": "0-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 5,
+    "teamAway": "Swansea",
+    "teamHome": "Tottenham",
+    "pub": 31663,
+    "hts": "2-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Watford",
+    "teamHome": "West Bromwich",
+    "pub": 22244,
+    "hts": "2-0",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 5,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "West Ham",
+    "pub": 56980,
+    "hts": "0-1",
+    "realdate": "Sat 03.12.16",
+    "time": "Sat 03.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 4,
+    "teamAway": "Liverpool",
+    "teamHome": "Bournemouth",
+    "pub": 11183,
+    "hts": "0-2",
+    "realdate": "Sun 04.12.16",
+    "time": "Sun 04.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Everton",
+    "pub": 39550,
+    "hts": "0-1",
+    "realdate": "Sun 04.12.16",
+    "time": "Sun 04.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Hull",
+    "teamHome": "Middlesbrough",
+    "pub": 27395,
+    "hts": "0-0",
+    "realdate": "Mon 05.12.16",
+    "time": "Mon 05.12.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 34,
+    "bp": 32,
+    "bc": 11
+  }, {
+    "team": "Arsenal",
+    "pts": 31,
+    "bp": 33,
+    "bc": 14
+  }, {
+    "team": "Liverpool",
+    "pts": 30,
+    "bp": 35,
+    "bc": 18
+  }, {
+    "team": "Manchester C",
+    "pts": 30,
+    "bp": 30,
+    "bc": 15
+  }, {
+    "team": "Tottenham",
+    "pts": 27,
+    "bp": 24,
+    "bc": 10
+  }, {
+    "team": "Manchester U",
+    "pts": 21,
+    "bp": 19,
+    "bc": 16
+  }, {
+    "team": "West Bromwich",
+    "pts": 20,
+    "bp": 20,
+    "bc": 17
+  }, {
+    "team": "Everton",
+    "pts": 20,
+    "bp": 17,
+    "bc": 16
+  }, {
+    "team": "Stoke",
+    "pts": 19,
+    "bp": 16,
+    "bc": 19
+  }, {
+    "team": "Bournemouth",
+    "pts": 18,
+    "bp": 19,
+    "bc": 22
+  }, {
+    "team": "Watford",
+    "pts": 18,
+    "bp": 18,
+    "bc": 24
+  }, {
+    "team": "Southampton",
+    "pts": 17,
+    "bp": 13,
+    "bc": 15
+  }, {
+    "team": "Middlesbrough",
+    "pts": 15,
+    "bp": 13,
+    "bc": 15
+  }, {
+    "team": "Crystal P",
+    "pts": 14,
+    "bp": 24,
+    "bc": 26
+  }, {
+    "team": "Burnley",
+    "pts": 14,
+    "bp": 12,
+    "bc": 23
+  }, {
+    "team": "Leicester",
+    "pts": 13,
+    "bp": 17,
+    "bc": 24
+  }, {
+    "team": "West Ham",
+    "pts": 12,
+    "bp": 15,
+    "bc": 29
+  }, {
+    "team": "Sunderland",
+    "pts": 11,
+    "bp": 14,
+    "bc": 24
+  }, {
+    "team": "Hull",
+    "pts": 11,
+    "bp": 11,
+    "bc": 29
+  }, {
+    "team": "Swansea",
+    "pts": 9,
+    "bp": 16,
+    "bc": 31
+  }],
+  "minPts": 9,
+  "maxPts": 34
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Everton",
+    "teamHome": "Watford",
+    "pub": 20769,
+    "hts": "1-1",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Stoke",
+    "teamHome": "Arsenal",
+    "pub": 59964,
+    "hts": "1-1",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Bournemouth",
+    "teamHome": "Burnley",
+    "pub": 19680,
+    "hts": "2-1",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 3,
+    "teamAway": "Crystal P",
+    "teamHome": "Hull",
+    "pub": 17403,
+    "hts": "1-0",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Sunderland",
+    "teamHome": "Swansea",
+    "pub": 20453,
+    "hts": "0-0",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "Manchester C",
+    "teamHome": "Leicester",
+    "pub": 31966,
+    "hts": "3-0",
+    "realdate": "Sat 10.12.16",
+    "time": "Sat 10.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Chelsea",
+    "pub": 41622,
+    "hts": "0-0",
+    "realdate": "Sun 11.12.16",
+    "time": "Sun 11.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Manchester U",
+    "pub": 75271,
+    "hts": "1-0",
+    "realdate": "Sun 11.12.16",
+    "time": "Sun 11.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Southampton",
+    "pub": 28976,
+    "hts": "0-0",
+    "realdate": "Sun 11.12.16",
+    "time": "Sun 11.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "West Ham",
+    "teamHome": "Liverpool",
+    "pub": 53068,
+    "hts": "1-2",
+    "realdate": "Sun 11.12.16",
+    "time": "Sun 11.12.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 37,
+    "bp": 33,
+    "bc": 11
+  }, {
+    "team": "Arsenal",
+    "pts": 34,
+    "bp": 36,
+    "bc": 15
+  }, {
+    "team": "Liverpool",
+    "pts": 31,
+    "bp": 37,
+    "bc": 20
+  }, {
+    "team": "Manchester C",
+    "pts": 30,
+    "bp": 32,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 27,
+    "bp": 24,
+    "bc": 11
+  }, {
+    "team": "Manchester U",
+    "pts": 24,
+    "bp": 20,
+    "bc": 16
+  }, {
+    "team": "Watford",
+    "pts": 21,
+    "bp": 21,
+    "bc": 26
+  }, {
+    "team": "West Bromwich",
+    "pts": 20,
+    "bp": 20,
+    "bc": 18
+  }, {
+    "team": "Everton",
+    "pts": 20,
+    "bp": 19,
+    "bc": 19
+  }, {
+    "team": "Southampton",
+    "pts": 20,
+    "bp": 14,
+    "bc": 15
+  }, {
+    "team": "Stoke",
+    "pts": 19,
+    "bp": 17,
+    "bc": 22
+  }, {
+    "team": "Bournemouth",
+    "pts": 18,
+    "bp": 21,
+    "bc": 25
+  }, {
+    "team": "Burnley",
+    "pts": 17,
+    "bp": 15,
+    "bc": 25
+  }, {
+    "team": "Leicester",
+    "pts": 16,
+    "bp": 21,
+    "bc": 26
+  }, {
+    "team": "Crystal P",
+    "pts": 15,
+    "bp": 27,
+    "bc": 29
+  }, {
+    "team": "Middlesbrough",
+    "pts": 15,
+    "bp": 13,
+    "bc": 16
+  }, {
+    "team": "West Ham",
+    "pts": 13,
+    "bp": 17,
+    "bc": 31
+  }, {
+    "team": "Swansea",
+    "pts": 12,
+    "bp": 19,
+    "bc": 31
+  }, {
+    "team": "Hull",
+    "pts": 12,
+    "bp": 14,
+    "bc": 32
+  }, {
+    "team": "Sunderland",
+    "pts": 11,
+    "bp": 14,
+    "bc": 27
+  }],
+  "minPts": 11,
+  "maxPts": 37
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Leicester",
+    "teamHome": "Bournemouth",
+    "pub": 11068,
+    "hts": "1-0",
+    "realdate": "Tue 13.12.16",
+    "time": "Tue 13.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Arsenal",
+    "teamHome": "Everton",
+    "pub": 39510,
+    "hts": "1-1",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "Middlesbrough",
+    "pub": 32704,
+    "hts": "0-1",
+    "realdate": "Tue 13.12.16",
+    "time": "Tue 13.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Sunderland",
+    "pub": 41008,
+    "hts": "0-1",
+    "realdate": "Tue 13.12.16",
+    "time": "Tue 13.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Burnley",
+    "teamHome": "West Ham",
+    "pub": 56990,
+    "hts": "1-0",
+    "realdate": "Tue 13.12.16",
+    "time": "Tue 13.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Crystal P",
+    "pub": 25547,
+    "hts": "0-1",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Manchester C",
+    "pub": 51527,
+    "hts": "1-0",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "Stoke",
+    "pub": 27002,
+    "hts": "0-0",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "Tottenham",
+    "pub": 31347,
+    "hts": "1-0",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Swansea",
+    "teamHome": "West Bromwich",
+    "pub": 21467,
+    "hts": "0-0",
+    "realdate": "Wed 14.12.16",
+    "time": "Wed 14.12.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 40,
+    "bp": 34,
+    "bc": 11
+  }, {
+    "team": "Liverpool",
+    "pts": 34,
+    "bp": 40,
+    "bc": 20
+  }, {
+    "team": "Arsenal",
+    "pts": 34,
+    "bp": 37,
+    "bc": 17
+  }, {
+    "team": "Manchester C",
+    "pts": 33,
+    "bp": 34,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 30,
+    "bp": 27,
+    "bc": 11
+  }, {
+    "team": "Manchester U",
+    "pts": 27,
+    "bp": 22,
+    "bc": 17
+  }, {
+    "team": "West Bromwich",
+    "pts": 23,
+    "bp": 23,
+    "bc": 19
+  }, {
+    "team": "Everton",
+    "pts": 23,
+    "bp": 21,
+    "bc": 20
+  }, {
+    "team": "Southampton",
+    "pts": 21,
+    "bp": 14,
+    "bc": 15
+  }, {
+    "team": "Bournemouth",
+    "pts": 21,
+    "bp": 22,
+    "bc": 25
+  }, {
+    "team": "Watford",
+    "pts": 21,
+    "bp": 21,
+    "bc": 28
+  }, {
+    "team": "Stoke",
+    "pts": 20,
+    "bp": 17,
+    "bc": 22
+  }, {
+    "team": "Burnley",
+    "pts": 17,
+    "bp": 15,
+    "bc": 26
+  }, {
+    "team": "Leicester",
+    "pts": 16,
+    "bp": 21,
+    "bc": 27
+  }, {
+    "team": "West Ham",
+    "pts": 16,
+    "bp": 18,
+    "bc": 31
+  }, {
+    "team": "Crystal P",
+    "pts": 15,
+    "bp": 28,
+    "bc": 31
+  }, {
+    "team": "Middlesbrough",
+    "pts": 15,
+    "bp": 13,
+    "bc": 19
+  }, {
+    "team": "Swansea",
+    "pts": 12,
+    "bp": 20,
+    "bc": 34
+  }, {
+    "team": "Hull",
+    "pts": 12,
+    "bp": 14,
+    "bc": 35
+  }, {
+    "team": "Sunderland",
+    "pts": 11,
+    "bp": 14,
+    "bc": 28
+  }],
+  "minPts": 11,
+  "maxPts": 40
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Crystal P",
+    "pub": 25259,
+    "hts": "0-1",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Swansea",
+    "teamHome": "Middlesbrough",
+    "pub": 28302,
+    "hts": "2-0",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Stoke",
+    "pub": 27663,
+    "hts": "2-0",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Watford",
+    "teamHome": "Sunderland",
+    "pub": 40267,
+    "hts": "0-0",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Hull",
+    "teamHome": "West Ham",
+    "pub": 56952,
+    "hts": "0-0",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "West Bromwich",
+    "pub": 26308,
+    "hts": "0-1",
+    "realdate": "Sat 17.12.16",
+    "time": "Sat 17.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Southampton",
+    "teamHome": "Bournemouth",
+    "pub": 11113,
+    "hts": "1-1",
+    "realdate": "Sun 18.12.16",
+    "time": "Sun 18.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Arsenal",
+    "teamHome": "Manchester C",
+    "pub": 54409,
+    "hts": "0-1",
+    "realdate": "Sun 18.12.16",
+    "time": "Sun 18.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Tottenham",
+    "pub": 31467,
+    "hts": "1-1",
+    "realdate": "Sun 18.12.16",
+    "time": "Sun 18.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "Everton",
+    "pub": 39590,
+    "hts": "0-0",
+    "realdate": "Mon 19.12.16",
+    "time": "Mon 19.12.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 43,
+    "bp": 35,
+    "bc": 11
+  }, {
+    "team": "Liverpool",
+    "pts": 37,
+    "bp": 41,
+    "bc": 20
+  }, {
+    "team": "Manchester C",
+    "pts": 36,
+    "bp": 36,
+    "bc": 20
+  }, {
+    "team": "Arsenal",
+    "pts": 34,
+    "bp": 38,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 33,
+    "bp": 29,
+    "bc": 12
+  }, {
+    "team": "Manchester U",
+    "pts": 30,
+    "bp": 24,
+    "bc": 17
+  }, {
+    "team": "Southampton",
+    "pts": 24,
+    "bp": 17,
+    "bc": 16
+  }, {
+    "team": "West Bromwich",
+    "pts": 23,
+    "bp": 23,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 23,
+    "bp": 21,
+    "bc": 21
+  }, {
+    "team": "Bournemouth",
+    "pts": 21,
+    "bp": 23,
+    "bc": 28
+  }, {
+    "team": "Stoke",
+    "pts": 21,
+    "bp": 19,
+    "bc": 24
+  }, {
+    "team": "Watford",
+    "pts": 21,
+    "bp": 21,
+    "bc": 29
+  }, {
+    "team": "West Ham",
+    "pts": 19,
+    "bp": 19,
+    "bc": 31
+  }, {
+    "team": "Middlesbrough",
+    "pts": 18,
+    "bp": 16,
+    "bc": 19
+  }, {
+    "team": "Leicester",
+    "pts": 17,
+    "bp": 23,
+    "bc": 29
+  }, {
+    "team": "Burnley",
+    "pts": 17,
+    "bp": 16,
+    "bc": 28
+  }, {
+    "team": "Crystal P",
+    "pts": 15,
+    "bp": 28,
+    "bc": 32
+  }, {
+    "team": "Sunderland",
+    "pts": 14,
+    "bp": 15,
+    "bc": 28
+  }, {
+    "team": "Swansea",
+    "pts": 12,
+    "bp": 20,
+    "bc": 37
+  }, {
+    "team": "Hull",
+    "pts": 12,
+    "bp": 14,
+    "bc": 36
+  }],
+  "minPts": 12,
+  "maxPts": 43
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Watford",
+    "pub": 20304,
+    "hts": "0-1",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Arsenal",
+    "pub": 59925,
+    "hts": "0-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Burnley",
+    "pub": 21562,
+    "hts": "0-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Bournemouth",
+    "teamHome": "Chelsea",
+    "pub": 41384,
+    "hts": "1-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Everton",
+    "teamHome": "Leicester",
+    "pub": 31985,
+    "hts": "0-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Sunderland",
+    "teamHome": "Manchester U",
+    "pub": 75325,
+    "hts": "1-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Swansea",
+    "pub": 20757,
+    "hts": "0-1",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "Hull",
+    "pub": 23134,
+    "hts": "0-0",
+    "realdate": "Mon 26.12.16",
+    "time": "Mon 26.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 4,
+    "teamAway": "Stoke",
+    "teamHome": "Liverpool",
+    "pub": 53094,
+    "hts": "2-1",
+    "realdate": "Tue 27.12.16",
+    "time": "Tue 27.12.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Southampton",
+    "pub": 31853,
+    "hts": "1-1",
+    "realdate": "Wed 28.12.16",
+    "time": "Wed 28.12.16"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 46,
+    "bp": 38,
+    "bc": 11
+  }, {
+    "team": "Liverpool",
+    "pts": 40,
+    "bp": 45,
+    "bc": 21
+  }, {
+    "team": "Manchester C",
+    "pts": 39,
+    "bp": 39,
+    "bc": 20
+  }, {
+    "team": "Arsenal",
+    "pts": 37,
+    "bp": 39,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 36,
+    "bp": 33,
+    "bc": 13
+  }, {
+    "team": "Manchester U",
+    "pts": 33,
+    "bp": 27,
+    "bc": 18
+  }, {
+    "team": "Everton",
+    "pts": 26,
+    "bp": 23,
+    "bc": 21
+  }, {
+    "team": "Southampton",
+    "pts": 24,
+    "bp": 18,
+    "bc": 20
+  }, {
+    "team": "West Bromwich",
+    "pts": 23,
+    "bp": 23,
+    "bc": 22
+  }, {
+    "team": "Watford",
+    "pts": 22,
+    "bp": 22,
+    "bc": 30
+  }, {
+    "team": "West Ham",
+    "pts": 22,
+    "bp": 23,
+    "bc": 32
+  }, {
+    "team": "Bournemouth",
+    "pts": 21,
+    "bp": 23,
+    "bc": 31
+  }, {
+    "team": "Stoke",
+    "pts": 21,
+    "bp": 20,
+    "bc": 28
+  }, {
+    "team": "Burnley",
+    "pts": 20,
+    "bp": 17,
+    "bc": 28
+  }, {
+    "team": "Middlesbrough",
+    "pts": 18,
+    "bp": 16,
+    "bc": 20
+  }, {
+    "team": "Leicester",
+    "pts": 17,
+    "bp": 23,
+    "bc": 31
+  }, {
+    "team": "Crystal P",
+    "pts": 16,
+    "bp": 29,
+    "bc": 33
+  }, {
+    "team": "Sunderland",
+    "pts": 14,
+    "bp": 16,
+    "bc": 31
+  }, {
+    "team": "Swansea",
+    "pts": 12,
+    "bp": 21,
+    "bc": 41
+  }, {
+    "team": "Hull",
+    "pts": 12,
+    "bp": 14,
+    "bc": 39
+  }],
+  "minPts": 12,
+  "maxPts": 46
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Everton",
+    "teamHome": "Hull",
+    "pub": 20111,
+    "hts": "1-1",
+    "realdate": "Sat 30.12.16",
+    "time": "Sat 30.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 4,
+    "teamAway": "Sunderland",
+    "teamHome": "Burnley",
+    "pub": 21124,
+    "hts": "1-0",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "Stoke",
+    "teamHome": "Chelsea",
+    "pub": 41601,
+    "hts": "1-0",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Leicester",
+    "pub": 32060,
+    "hts": "1-0",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Manchester U",
+    "pub": 75314,
+    "hts": "0-0",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Southampton",
+    "pub": 30975,
+    "hts": "1-1",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Bournemouth",
+    "teamHome": "Swansea",
+    "pub": 20316,
+    "hts": "0-2",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Manchester C",
+    "teamHome": "Liverpool",
+    "pub": 53120,
+    "hts": "1-0",
+    "realdate": "Sat 31.12.16",
+    "time": "Sat 31.12.16"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Watford",
+    "pub": 20882,
+    "hts": "0-3",
+    "realdate": "Sun 01.01.17",
+    "time": "Sun 01.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Crystal P",
+    "teamHome": "Arsenal",
+    "pub": 59975,
+    "hts": "1-0",
+    "realdate": "Sun 01.01.17",
+    "time": "Sun 01.01.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 49,
+    "bp": 42,
+    "bc": 13
+  }, {
+    "team": "Liverpool",
+    "pts": 43,
+    "bp": 46,
+    "bc": 21
+  }, {
+    "team": "Arsenal",
+    "pts": 40,
+    "bp": 41,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 39,
+    "bp": 37,
+    "bc": 14
+  }, {
+    "team": "Manchester C",
+    "pts": 39,
+    "bp": 39,
+    "bc": 21
+  }, {
+    "team": "Manchester U",
+    "pts": 36,
+    "bp": 29,
+    "bc": 19
+  }, {
+    "team": "Everton",
+    "pts": 27,
+    "bp": 25,
+    "bc": 23
+  }, {
+    "team": "West Bromwich",
+    "pts": 26,
+    "bp": 25,
+    "bc": 23
+  }, {
+    "team": "Southampton",
+    "pts": 24,
+    "bp": 19,
+    "bc": 22
+  }, {
+    "team": "Bournemouth",
+    "pts": 24,
+    "bp": 26,
+    "bc": 31
+  }, {
+    "team": "Burnley",
+    "pts": 23,
+    "bp": 21,
+    "bc": 29
+  }, {
+    "team": "West Ham",
+    "pts": 22,
+    "bp": 23,
+    "bc": 33
+  }, {
+    "team": "Watford",
+    "pts": 22,
+    "bp": 23,
+    "bc": 34
+  }, {
+    "team": "Stoke",
+    "pts": 21,
+    "bp": 22,
+    "bc": 32
+  }, {
+    "team": "Leicester",
+    "pts": 20,
+    "bp": 24,
+    "bc": 31
+  }, {
+    "team": "Middlesbrough",
+    "pts": 18,
+    "bp": 17,
+    "bc": 22
+  }, {
+    "team": "Crystal P",
+    "pts": 16,
+    "bp": 29,
+    "bc": 35
+  }, {
+    "team": "Sunderland",
+    "pts": 14,
+    "bp": 17,
+    "bc": 35
+  }, {
+    "team": "Hull",
+    "pts": 13,
+    "bp": 16,
+    "bc": 41
+  }, {
+    "team": "Swansea",
+    "pts": 12,
+    "bp": 21,
+    "bc": 44
+  }],
+  "minPts": 12,
+  "maxPts": 49
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Leicester",
+    "teamHome": "Middlesbrough",
+    "pub": 32437,
+    "hts": "0-0",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Southampton",
+    "teamHome": "Everton",
+    "pub": 38891,
+    "hts": "0-0",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Manchester C",
+    "pub": 54463,
+    "hts": "0-0",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Liverpool",
+    "teamHome": "Sunderland",
+    "pub": 46494,
+    "hts": "1-1",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "West Bromwich",
+    "pub": 0,
+    "hts": "0-1",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "West Ham",
+    "pub": 56996,
+    "hts": "0-0",
+    "realdate": "Mon 02.01.17",
+    "time": "Mon 02.01.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 3,
+    "teamAway": "Arsenal",
+    "teamHome": "Bournemouth",
+    "pub": 11202,
+    "hts": "2-0",
+    "realdate": "Tue 03.01.17",
+    "time": "Tue 03.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "Crystal P",
+    "pub": 0,
+    "hts": "0-0",
+    "realdate": "Tue 03.01.17",
+    "time": "Tue 03.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Stoke",
+    "pub": 0,
+    "hts": "1-0",
+    "realdate": "Tue 03.01.17",
+    "time": "Tue 03.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Chelsea",
+    "teamHome": "Tottenham",
+    "pub": 31491,
+    "hts": "1-0",
+    "realdate": "Wed 04.01.17",
+    "time": "Wed 04.01.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 49,
+    "bp": 42,
+    "bc": 15
+  }, {
+    "team": "Liverpool",
+    "pts": 44,
+    "bp": 48,
+    "bc": 23
+  }, {
+    "team": "Tottenham",
+    "pts": 42,
+    "bp": 39,
+    "bc": 14
+  }, {
+    "team": "Manchester C",
+    "pts": 42,
+    "bp": 41,
+    "bc": 22
+  }, {
+    "team": "Arsenal",
+    "pts": 41,
+    "bp": 44,
+    "bc": 22
+  }, {
+    "team": "Manchester U",
+    "pts": 39,
+    "bp": 31,
+    "bc": 19
+  }, {
+    "team": "Everton",
+    "pts": 30,
+    "bp": 28,
+    "bc": 23
+  }, {
+    "team": "West Bromwich",
+    "pts": 29,
+    "bp": 28,
+    "bc": 24
+  }, {
+    "team": "Bournemouth",
+    "pts": 25,
+    "bp": 29,
+    "bc": 34
+  }, {
+    "team": "Southampton",
+    "pts": 24,
+    "bp": 19,
+    "bc": 25
+  }, {
+    "team": "Stoke",
+    "pts": 24,
+    "bp": 24,
+    "bc": 32
+  }, {
+    "team": "Burnley",
+    "pts": 23,
+    "bp": 22,
+    "bc": 31
+  }, {
+    "team": "West Ham",
+    "pts": 22,
+    "bp": 23,
+    "bc": 35
+  }, {
+    "team": "Watford",
+    "pts": 22,
+    "bp": 23,
+    "bc": 36
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 31
+  }, {
+    "team": "Middlesbrough",
+    "pts": 19,
+    "bp": 17,
+    "bc": 22
+  }, {
+    "team": "Crystal P",
+    "pts": 16,
+    "bp": 30,
+    "bc": 37
+  }, {
+    "team": "Sunderland",
+    "pts": 15,
+    "bp": 19,
+    "bc": 37
+  }, {
+    "team": "Swansea",
+    "pts": 15,
+    "bp": 23,
+    "bc": 45
+  }, {
+    "team": "Hull",
+    "pts": 13,
+    "bp": 17,
+    "bc": 44
+  }],
+  "minPts": 13,
+  "maxPts": 49
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "West Bromwich",
+    "teamHome": "Tottenham",
+    "pub": 31613,
+    "hts": "2-0",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Southampton",
+    "teamHome": "Burnley",
+    "pub": 20254,
+    "hts": "0-0",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Bournemouth",
+    "teamHome": "Hull",
+    "pub": 17963,
+    "hts": "1-1",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "Sunderland",
+    "pub": 42722,
+    "hts": "0-3",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Arsenal",
+    "teamHome": "Swansea",
+    "pub": 20875,
+    "hts": "0-1",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Watford",
+    "pub": 20659,
+    "hts": "0-0",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Crystal P",
+    "teamHome": "West Ham",
+    "pub": 56984,
+    "hts": "0-0",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Leicester",
+    "pub": 32066,
+    "hts": "0-1",
+    "realdate": "Sat 14.01.17",
+    "time": "Sat 14.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Manchester C",
+    "teamHome": "Everton",
+    "pub": 39588,
+    "hts": "1-0",
+    "realdate": "Sun 14.01.17",
+    "time": "Sun 14.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Manchester U",
+    "pub": 75276,
+    "hts": "0-1",
+    "realdate": "Sun 14.01.17",
+    "time": "Sun 14.01.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 52,
+    "bp": 45,
+    "bc": 15
+  }, {
+    "team": "Tottenham",
+    "pts": 45,
+    "bp": 43,
+    "bc": 14
+  }, {
+    "team": "Liverpool",
+    "pts": 45,
+    "bp": 49,
+    "bc": 24
+  }, {
+    "team": "Arsenal",
+    "pts": 44,
+    "bp": 48,
+    "bc": 22
+  }, {
+    "team": "Manchester C",
+    "pts": 42,
+    "bp": 41,
+    "bc": 26
+  }, {
+    "team": "Manchester U",
+    "pts": 40,
+    "bp": 32,
+    "bc": 20
+  }, {
+    "team": "Everton",
+    "pts": 33,
+    "bp": 32,
+    "bc": 23
+  }, {
+    "team": "West Bromwich",
+    "pts": 29,
+    "bp": 28,
+    "bc": 28
+  }, {
+    "team": "Stoke",
+    "pts": 27,
+    "bp": 27,
+    "bc": 33
+  }, {
+    "team": "Burnley",
+    "pts": 26,
+    "bp": 23,
+    "bc": 31
+  }, {
+    "team": "Bournemouth",
+    "pts": 25,
+    "bp": 30,
+    "bc": 37
+  }, {
+    "team": "West Ham",
+    "pts": 25,
+    "bp": 26,
+    "bc": 35
+  }, {
+    "team": "Southampton",
+    "pts": 24,
+    "bp": 19,
+    "bc": 26
+  }, {
+    "team": "Watford",
+    "pts": 23,
+    "bp": 23,
+    "bc": 36
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 34
+  }, {
+    "team": "Middlesbrough",
+    "pts": 20,
+    "bp": 17,
+    "bc": 22
+  }, {
+    "team": "Crystal P",
+    "pts": 16,
+    "bp": 30,
+    "bc": 40
+  }, {
+    "team": "Hull",
+    "pts": 16,
+    "bp": 20,
+    "bc": 45
+  }, {
+    "team": "Sunderland",
+    "pts": 15,
+    "bp": 20,
+    "bc": 40
+  }, {
+    "team": "Swansea",
+    "pts": 15,
+    "bp": 23,
+    "bc": 49
+  }],
+  "minPts": 15,
+  "maxPts": 52
+}, {
+  "gameList": [{
+    "goalsAway": 3,
+    "goalsHome": 2,
+    "teamAway": "Swansea",
+    "teamHome": "Liverpool",
+    "pub": 53169,
+    "hts": "0-0",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Bournemouth",
+    "pub": 11123,
+    "hts": "0-1",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Everton",
+    "teamHome": "Crystal P",
+    "pub": 25594,
+    "hts": "0-0",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Middlesbrough",
+    "pub": 30848,
+    "hts": "1-2",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Stoke",
+    "pub": 27423,
+    "hts": "1-0",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "West Bromwich",
+    "pub": 24380,
+    "hts": "2-0",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Tottenham",
+    "teamHome": "Manchester C",
+    "pub": 54402,
+    "hts": "0-0",
+    "realdate": "Sat 21.01.17",
+    "time": "Sat 21.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Leicester",
+    "teamHome": "Southampton",
+    "pub": 30548,
+    "hts": "2-0",
+    "realdate": "Sun 22.01.17",
+    "time": "Sun 22.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Arsenal",
+    "pub": 59955,
+    "hts": "0-0",
+    "realdate": "Sun 22.01.17",
+    "time": "Sun 22.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Hull",
+    "teamHome": "Chelsea",
+    "pub": 41605,
+    "hts": "1-0",
+    "realdate": "Sun 22.01.17",
+    "time": "Sun 22.01.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 55,
+    "bp": 47,
+    "bc": 15
+  }, {
+    "team": "Arsenal",
+    "pts": 47,
+    "bp": 50,
+    "bc": 23
+  }, {
+    "team": "Tottenham",
+    "pts": 46,
+    "bp": 45,
+    "bc": 16
+  }, {
+    "team": "Liverpool",
+    "pts": 45,
+    "bp": 51,
+    "bc": 27
+  }, {
+    "team": "Manchester C",
+    "pts": 43,
+    "bp": 43,
+    "bc": 28
+  }, {
+    "team": "Manchester U",
+    "pts": 41,
+    "bp": 33,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 36,
+    "bp": 33,
+    "bc": 23
+  }, {
+    "team": "West Bromwich",
+    "pts": 32,
+    "bp": 30,
+    "bc": 28
+  }, {
+    "team": "Stoke",
+    "pts": 28,
+    "bp": 28,
+    "bc": 34
+  }, {
+    "team": "West Ham",
+    "pts": 28,
+    "bp": 29,
+    "bc": 36
+  }, {
+    "team": "Southampton",
+    "pts": 27,
+    "bp": 22,
+    "bc": 26
+  }, {
+    "team": "Bournemouth",
+    "pts": 26,
+    "bp": 32,
+    "bc": 39
+  }, {
+    "team": "Burnley",
+    "pts": 26,
+    "bp": 24,
+    "bc": 33
+  }, {
+    "team": "Watford",
+    "pts": 24,
+    "bp": 25,
+    "bc": 38
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 37
+  }, {
+    "team": "Middlesbrough",
+    "pts": 20,
+    "bp": 18,
+    "bc": 25
+  }, {
+    "team": "Swansea",
+    "pts": 18,
+    "bp": 26,
+    "bc": 51
+  }, {
+    "team": "Crystal P",
+    "pts": 16,
+    "bp": 30,
+    "bc": 41
+  }, {
+    "team": "Hull",
+    "pts": 16,
+    "bp": 20,
+    "bc": 47
+  }, {
+    "team": "Sunderland",
+    "pts": 15,
+    "bp": 20,
+    "bc": 42
+  }],
+  "minPts": 15,
+  "maxPts": 55
+}, {
+  "gameList": [{
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Crystal P",
+    "teamHome": "Bournemouth",
+    "pub": 11286,
+    "hts": "0-0",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Watford",
+    "teamHome": "Arsenal",
+    "pub": 60035,
+    "hts": "0-2",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Leicester",
+    "teamHome": "Burnley",
+    "pub": 19202,
+    "hts": "0-0",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Bromwich",
+    "teamHome": "Middlesbrough",
+    "pub": 27316,
+    "hts": "1-1",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Tottenham",
+    "teamHome": "Sunderland",
+    "pub": 40058,
+    "hts": "0-0",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Southampton",
+    "teamHome": "Swansea",
+    "pub": 20359,
+    "hts": "1-0",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Liverpool",
+    "pub": 53157,
+    "hts": "0-1",
+    "realdate": "Tue 31.01.17",
+    "time": "Tue 31.01.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "West Ham",
+    "pub": 56980,
+    "hts": "0-3",
+    "realdate": "Wed 01.02.17",
+    "time": "Wed 01.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Hull",
+    "teamHome": "Manchester U",
+    "pub": 75297,
+    "hts": "0-0",
+    "realdate": "Wed 01.02.17",
+    "time": "Wed 01.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Stoke",
+    "pub": 27612,
+    "hts": "1-1",
+    "realdate": "Wed 01.02.17",
+    "time": "Wed 01.02.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 56,
+    "bp": 48,
+    "bc": 16
+  }, {
+    "team": "Tottenham",
+    "pts": 47,
+    "bp": 45,
+    "bc": 16
+  }, {
+    "team": "Arsenal",
+    "pts": 47,
+    "bp": 51,
+    "bc": 25
+  }, {
+    "team": "Liverpool",
+    "pts": 46,
+    "bp": 52,
+    "bc": 28
+  }, {
+    "team": "Manchester C",
+    "pts": 46,
+    "bp": 47,
+    "bc": 28
+  }, {
+    "team": "Manchester U",
+    "pts": 42,
+    "bp": 33,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 37,
+    "bp": 34,
+    "bc": 24
+  }, {
+    "team": "West Bromwich",
+    "pts": 33,
+    "bp": 31,
+    "bc": 29
+  }, {
+    "team": "Stoke",
+    "pts": 29,
+    "bp": 29,
+    "bc": 35
+  }, {
+    "team": "Burnley",
+    "pts": 29,
+    "bp": 25,
+    "bc": 33
+  }, {
+    "team": "West Ham",
+    "pts": 28,
+    "bp": 29,
+    "bc": 40
+  }, {
+    "team": "Southampton",
+    "pts": 27,
+    "bp": 23,
+    "bc": 28
+  }, {
+    "team": "Watford",
+    "pts": 27,
+    "bp": 27,
+    "bc": 39
+  }, {
+    "team": "Bournemouth",
+    "pts": 26,
+    "bp": 32,
+    "bc": 41
+  }, {
+    "team": "Middlesbrough",
+    "pts": 21,
+    "bp": 19,
+    "bc": 26
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 38
+  }, {
+    "team": "Swansea",
+    "pts": 21,
+    "bp": 28,
+    "bc": 52
+  }, {
+    "team": "Crystal P",
+    "pts": 19,
+    "bp": 32,
+    "bc": 41
+  }, {
+    "team": "Hull",
+    "pts": 17,
+    "bp": 20,
+    "bc": 47
+  }, {
+    "team": "Sunderland",
+    "pts": 16,
+    "bp": 20,
+    "bc": 42
+  }],
+  "minPts": 16,
+  "maxPts": 56
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Arsenal",
+    "teamHome": "Chelsea",
+    "pub": 41490,
+    "hts": "1-0",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Sunderland",
+    "teamHome": "Crystal P",
+    "pub": 25310,
+    "hts": "0-4",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 6,
+    "teamAway": "Bournemouth",
+    "teamHome": "Everton",
+    "pub": 39026,
+    "hts": "3-0",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Liverpool",
+    "teamHome": "Hull",
+    "pub": 24822,
+    "hts": "1-0",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Southampton",
+    "pub": 31891,
+    "hts": "1-2",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Watford",
+    "pub": 20178,
+    "hts": "2-1",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "West Bromwich",
+    "pub": 23921,
+    "hts": "1-0",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Tottenham",
+    "pub": 31949,
+    "hts": "0-0",
+    "realdate": "Sat 04.02.17",
+    "time": "Sat 04.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Swansea",
+    "teamHome": "Manchester C",
+    "pub": 54065,
+    "hts": "1-0",
+    "realdate": "Sun 05.02.17",
+    "time": "Sun 05.02.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Leicester",
+    "pub": 32072,
+    "hts": "0-2",
+    "realdate": "Sun 05.02.17",
+    "time": "Sun 05.02.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 59,
+    "bp": 51,
+    "bc": 17
+  }, {
+    "team": "Tottenham",
+    "pts": 50,
+    "bp": 46,
+    "bc": 16
+  }, {
+    "team": "Manchester C",
+    "pts": 49,
+    "bp": 49,
+    "bc": 29
+  }, {
+    "team": "Arsenal",
+    "pts": 47,
+    "bp": 52,
+    "bc": 28
+  }, {
+    "team": "Liverpool",
+    "pts": 46,
+    "bp": 52,
+    "bc": 30
+  }, {
+    "team": "Manchester U",
+    "pts": 45,
+    "bp": 36,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 40,
+    "bp": 40,
+    "bc": 27
+  }, {
+    "team": "West Bromwich",
+    "pts": 36,
+    "bp": 32,
+    "bc": 29
+  }, {
+    "team": "West Ham",
+    "pts": 31,
+    "bp": 32,
+    "bc": 41
+  }, {
+    "team": "Watford",
+    "pts": 30,
+    "bp": 29,
+    "bc": 40
+  }, {
+    "team": "Stoke",
+    "pts": 29,
+    "bp": 29,
+    "bc": 36
+  }, {
+    "team": "Burnley",
+    "pts": 29,
+    "bp": 26,
+    "bc": 35
+  }, {
+    "team": "Southampton",
+    "pts": 27,
+    "bp": 24,
+    "bc": 31
+  }, {
+    "team": "Bournemouth",
+    "pts": 26,
+    "bp": 35,
+    "bc": 47
+  }, {
+    "team": "Middlesbrough",
+    "pts": 21,
+    "bp": 19,
+    "bc": 27
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 41
+  }, {
+    "team": "Swansea",
+    "pts": 21,
+    "bp": 29,
+    "bc": 54
+  }, {
+    "team": "Hull",
+    "pts": 20,
+    "bp": 22,
+    "bc": 47
+  }, {
+    "team": "Crystal P",
+    "pts": 19,
+    "bp": 32,
+    "bc": 45
+  }, {
+    "team": "Sunderland",
+    "pts": 19,
+    "bp": 24,
+    "bc": 42
+  }],
+  "minPts": 19,
+  "maxPts": 59
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Hull",
+    "teamHome": "Arsenal",
+    "pub": 59962,
+    "hts": "1-0",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Manchester U",
+    "pub": 75301,
+    "hts": "1-0",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Everton",
+    "teamHome": "Middlesbrough",
+    "pub": 31496,
+    "hts": "0-0",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Stoke",
+    "pub": 27007,
+    "hts": "0-0",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "Sunderland",
+    "pub": 39931,
+    "hts": "0-2",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "West Bromwich",
+    "teamHome": "West Ham",
+    "pub": 56983,
+    "hts": "0-1",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Tottenham",
+    "teamHome": "Liverpool",
+    "pub": 53159,
+    "hts": "2-0",
+    "realdate": "Sat 11.02.17",
+    "time": "Sat 11.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Burnley",
+    "pub": 21744,
+    "hts": "1-1",
+    "realdate": "Sun 12.02.17",
+    "time": "Sun 12.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Swansea",
+    "pub": 20391,
+    "hts": "2-0",
+    "realdate": "Sun 12.02.17",
+    "time": "Sun 12.02.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "Bournemouth",
+    "pub": 11129,
+    "hts": "0-1",
+    "realdate": "Mon 13.02.17",
+    "time": "Mon 13.02.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 60,
+    "bp": 52,
+    "bc": 18
+  }, {
+    "team": "Manchester C",
+    "pts": 52,
+    "bp": 51,
+    "bc": 29
+  }, {
+    "team": "Tottenham",
+    "pts": 50,
+    "bp": 46,
+    "bc": 18
+  }, {
+    "team": "Arsenal",
+    "pts": 50,
+    "bp": 54,
+    "bc": 28
+  }, {
+    "team": "Liverpool",
+    "pts": 49,
+    "bp": 54,
+    "bc": 30
+  }, {
+    "team": "Manchester U",
+    "pts": 48,
+    "bp": 38,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 41,
+    "bp": 40,
+    "bc": 27
+  }, {
+    "team": "West Bromwich",
+    "pts": 37,
+    "bp": 34,
+    "bc": 31
+  }, {
+    "team": "Stoke",
+    "pts": 32,
+    "bp": 30,
+    "bc": 36
+  }, {
+    "team": "West Ham",
+    "pts": 32,
+    "bp": 34,
+    "bc": 43
+  }, {
+    "team": "Southampton",
+    "pts": 30,
+    "bp": 28,
+    "bc": 31
+  }, {
+    "team": "Burnley",
+    "pts": 30,
+    "bp": 27,
+    "bc": 36
+  }, {
+    "team": "Watford",
+    "pts": 30,
+    "bp": 29,
+    "bc": 42
+  }, {
+    "team": "Bournemouth",
+    "pts": 26,
+    "bp": 35,
+    "bc": 49
+  }, {
+    "team": "Swansea",
+    "pts": 24,
+    "bp": 31,
+    "bc": 54
+  }, {
+    "team": "Middlesbrough",
+    "pts": 22,
+    "bp": 19,
+    "bc": 27
+  }, {
+    "team": "Leicester",
+    "pts": 21,
+    "bp": 24,
+    "bc": 43
+  }, {
+    "team": "Hull",
+    "pts": 20,
+    "bp": 22,
+    "bc": 49
+  }, {
+    "team": "Crystal P",
+    "pts": 19,
+    "bp": 32,
+    "bc": 46
+  }, {
+    "team": "Sunderland",
+    "pts": 19,
+    "bp": 24,
+    "bc": 46
+  }],
+  "minPts": 19,
+  "maxPts": 60
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Swansea",
+    "teamHome": "Chelsea",
+    "pub": 41612,
+    "hts": "1-1",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Crystal P",
+    "pub": 25416,
+    "hts": "1-0",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Everton",
+    "pub": 39595,
+    "hts": "1-0",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Burnley",
+    "teamHome": "Hull",
+    "pub": 20156,
+    "hts": "0-0",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Bournemouth",
+    "teamHome": "West Bromwich",
+    "pub": 24162,
+    "hts": "2-1",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Watford",
+    "pub": 20702,
+    "hts": "1-0",
+    "realdate": "Sat 25.02.17",
+    "time": "Sat 25.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Stoke",
+    "teamHome": "Tottenham",
+    "pub": 31864,
+    "hts": "4-0",
+    "realdate": "Sun 26.02.17",
+    "time": "Sun 26.02.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Liverpool",
+    "teamHome": "Leicester",
+    "pub": 32034,
+    "hts": "2-0",
+    "realdate": "Mon 27.02.17",
+    "time": "Mon 27.02.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Manchester C",
+    "pub": 54176,
+    "hts": "0-0",
+    "realdate": "Thu 27.04.17",
+    "time": "Thu 27.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Arsenal",
+    "teamHome": "Southampton",
+    "pub": 31474,
+    "hts": "0-0",
+    "realdate": "Wed 10.05.17",
+    "time": "Wed 10.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 63,
+    "bp": 55,
+    "bc": 19
+  }, {
+    "team": "Tottenham",
+    "pts": 53,
+    "bp": 50,
+    "bc": 18
+  }, {
+    "team": "Arsenal",
+    "pts": 53,
+    "bp": 56,
+    "bc": 28
+  }, {
+    "team": "Manchester C",
+    "pts": 53,
+    "bp": 51,
+    "bc": 29
+  }, {
+    "team": "Liverpool",
+    "pts": 49,
+    "bp": 55,
+    "bc": 33
+  }, {
+    "team": "Manchester U",
+    "pts": 49,
+    "bp": 38,
+    "bc": 21
+  }, {
+    "team": "Everton",
+    "pts": 44,
+    "bp": 42,
+    "bc": 27
+  }, {
+    "team": "West Bromwich",
+    "pts": 40,
+    "bp": 36,
+    "bc": 32
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 35,
+    "bc": 44
+  }, {
+    "team": "Stoke",
+    "pts": 32,
+    "bp": 30,
+    "bc": 40
+  }, {
+    "team": "Burnley",
+    "pts": 31,
+    "bp": 28,
+    "bc": 37
+  }, {
+    "team": "Watford",
+    "pts": 31,
+    "bp": 30,
+    "bc": 43
+  }, {
+    "team": "Southampton",
+    "pts": 30,
+    "bp": 28,
+    "bc": 33
+  }, {
+    "team": "Bournemouth",
+    "pts": 26,
+    "bp": 36,
+    "bc": 51
+  }, {
+    "team": "Leicester",
+    "pts": 24,
+    "bp": 27,
+    "bc": 44
+  }, {
+    "team": "Swansea",
+    "pts": 24,
+    "bp": 32,
+    "bc": 57
+  }, {
+    "team": "Middlesbrough",
+    "pts": 22,
+    "bp": 19,
+    "bc": 28
+  }, {
+    "team": "Crystal P",
+    "pts": 22,
+    "bp": 33,
+    "bc": 46
+  }, {
+    "team": "Hull",
+    "pts": 21,
+    "bp": 23,
+    "bc": 50
+  }, {
+    "team": "Sunderland",
+    "pts": 19,
+    "bp": 24,
+    "bc": 48
+  }],
+  "minPts": 19,
+  "maxPts": 63
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Bournemouth",
+    "teamHome": "Manchester U",
+    "pub": 75245,
+    "hts": "1-1",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "Leicester",
+    "pub": 31971,
+    "hts": "1-1",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Stoke",
+    "pub": 27644,
+    "hts": "2-0",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Burnley",
+    "teamHome": "Swansea",
+    "pub": 20679,
+    "hts": "1-1",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 3,
+    "teamAway": "Southampton",
+    "teamHome": "Watford",
+    "pub": 20670,
+    "hts": "1-2",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Crystal P",
+    "teamHome": "West Bromwich",
+    "pub": 24051,
+    "hts": "0-0",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Arsenal",
+    "teamHome": "Liverpool",
+    "pub": 53146,
+    "hts": "2-0",
+    "realdate": "Sat 04.03.17",
+    "time": "Sat 04.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "Everton",
+    "teamHome": "Tottenham",
+    "pub": 31962,
+    "hts": "1-0",
+    "realdate": "Sun 05.03.17",
+    "time": "Sun 05.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "Sunderland",
+    "pub": 41107,
+    "hts": "0-1",
+    "realdate": "Sun 05.03.17",
+    "time": "Sun 05.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "West Ham",
+    "pub": 56984,
+    "hts": "0-1",
+    "realdate": "Mon 06.03.17",
+    "time": "Mon 06.03.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 66,
+    "bp": 57,
+    "bc": 20
+  }, {
+    "team": "Tottenham",
+    "pts": 56,
+    "bp": 53,
+    "bc": 20
+  }, {
+    "team": "Manchester C",
+    "pts": 56,
+    "bp": 53,
+    "bc": 29
+  }, {
+    "team": "Arsenal",
+    "pts": 53,
+    "bp": 57,
+    "bc": 31
+  }, {
+    "team": "Liverpool",
+    "pts": 52,
+    "bp": 58,
+    "bc": 34
+  }, {
+    "team": "Manchester U",
+    "pts": 50,
+    "bp": 39,
+    "bc": 22
+  }, {
+    "team": "Everton",
+    "pts": 44,
+    "bp": 44,
+    "bc": 30
+  }, {
+    "team": "West Bromwich",
+    "pts": 40,
+    "bp": 36,
+    "bc": 34
+  }, {
+    "team": "Stoke",
+    "pts": 35,
+    "bp": 32,
+    "bc": 40
+  }, {
+    "team": "Southampton",
+    "pts": 33,
+    "bp": 32,
+    "bc": 36
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 36,
+    "bc": 46
+  }, {
+    "team": "Burnley",
+    "pts": 31,
+    "bp": 30,
+    "bc": 40
+  }, {
+    "team": "Watford",
+    "pts": 31,
+    "bp": 33,
+    "bc": 47
+  }, {
+    "team": "Bournemouth",
+    "pts": 27,
+    "bp": 37,
+    "bc": 52
+  }, {
+    "team": "Leicester",
+    "pts": 27,
+    "bp": 30,
+    "bc": 45
+  }, {
+    "team": "Swansea",
+    "pts": 27,
+    "bp": 35,
+    "bc": 59
+  }, {
+    "team": "Crystal P",
+    "pts": 25,
+    "bp": 35,
+    "bc": 46
+  }, {
+    "team": "Middlesbrough",
+    "pts": 22,
+    "bp": 19,
+    "bc": 30
+  }, {
+    "team": "Hull",
+    "pts": 21,
+    "bp": 24,
+    "bc": 53
+  }, {
+    "team": "Sunderland",
+    "pts": 19,
+    "bp": 24,
+    "bc": 50
+  }],
+  "minPts": 19,
+  "maxPts": 66
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Stoke",
+    "teamHome": "Manchester C",
+    "pub": 52625,
+    "hts": "0-0",
+    "realdate": "Wed 08.03.17",
+    "time": "Wed 08.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 3,
+    "teamAway": "West Ham",
+    "teamHome": "Bournemouth",
+    "pub": 11369,
+    "hts": "1-1",
+    "realdate": "Sat 11.03.17",
+    "time": "Sat 11.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "West Bromwich",
+    "teamHome": "Everton",
+    "pub": 39592,
+    "hts": "2-0",
+    "realdate": "Sat 11.03.17",
+    "time": "Sat 11.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Swansea",
+    "teamHome": "Hull",
+    "pub": 19195,
+    "hts": "0-0",
+    "realdate": "Sat 11.03.17",
+    "time": "Sat 11.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Liverpool",
+    "pub": 53145,
+    "hts": "1-1",
+    "realdate": "Sun 12.03.17",
+    "time": "Sun 12.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Leicester",
+    "teamHome": "Arsenal",
+    "pub": 59829,
+    "hts": "0-0",
+    "realdate": "Wed 26.04.17",
+    "time": "Wed 26.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "Middlesbrough",
+    "pub": 30742,
+    "hts": "1-0",
+    "realdate": "Wed 26.04.17",
+    "time": "Wed 26.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Tottenham",
+    "teamHome": "Crystal P",
+    "pub": 25596,
+    "hts": "0-0",
+    "realdate": "Wed 26.04.17",
+    "time": "Wed 26.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 4,
+    "teamAway": "Watford",
+    "teamHome": "Chelsea",
+    "pub": 41473,
+    "hts": "2-1",
+    "realdate": "Mon 15.05.17",
+    "time": "Mon 15.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Southampton",
+    "pub": 31425,
+    "hts": "0-0",
+    "realdate": "Wed 17.05.17",
+    "time": "Wed 17.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 69,
+    "bp": 61,
+    "bc": 23
+  }, {
+    "team": "Tottenham",
+    "pts": 59,
+    "bp": 54,
+    "bc": 20
+  }, {
+    "team": "Manchester C",
+    "pts": 57,
+    "bp": 53,
+    "bc": 29
+  }, {
+    "team": "Arsenal",
+    "pts": 56,
+    "bp": 58,
+    "bc": 31
+  }, {
+    "team": "Liverpool",
+    "pts": 55,
+    "bp": 60,
+    "bc": 35
+  }, {
+    "team": "Manchester U",
+    "pts": 51,
+    "bp": 39,
+    "bc": 22
+  }, {
+    "team": "Everton",
+    "pts": 47,
+    "bp": 47,
+    "bc": 30
+  }, {
+    "team": "West Bromwich",
+    "pts": 40,
+    "bp": 36,
+    "bc": 37
+  }, {
+    "team": "Stoke",
+    "pts": 36,
+    "bp": 32,
+    "bc": 40
+  }, {
+    "team": "Southampton",
+    "pts": 34,
+    "bp": 32,
+    "bc": 36
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 38,
+    "bc": 49
+  }, {
+    "team": "Burnley",
+    "pts": 31,
+    "bp": 31,
+    "bc": 42
+  }, {
+    "team": "Watford",
+    "pts": 31,
+    "bp": 36,
+    "bc": 51
+  }, {
+    "team": "Bournemouth",
+    "pts": 30,
+    "bp": 40,
+    "bc": 54
+  }, {
+    "team": "Leicester",
+    "pts": 27,
+    "bp": 30,
+    "bc": 46
+  }, {
+    "team": "Swansea",
+    "pts": 27,
+    "bp": 36,
+    "bc": 61
+  }, {
+    "team": "Middlesbrough",
+    "pts": 25,
+    "bp": 20,
+    "bc": 30
+  }, {
+    "team": "Crystal P",
+    "pts": 25,
+    "bp": 35,
+    "bc": 47
+  }, {
+    "team": "Hull",
+    "pts": 24,
+    "bp": 26,
+    "bc": 54
+  }, {
+    "team": "Sunderland",
+    "pts": 19,
+    "bp": 24,
+    "bc": 51
+  }],
+  "minPts": 19,
+  "maxPts": 69
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Arsenal",
+    "teamHome": "West Bromwich",
+    "pub": 24065,
+    "hts": "1-1",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Watford",
+    "teamHome": "Crystal P",
+    "pub": 25109,
+    "hts": "0-0",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Hull",
+    "teamHome": "Everton",
+    "pub": 39248,
+    "hts": "1-0",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Stoke",
+    "pub": 27724,
+    "hts": "1-1",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Burnley",
+    "teamHome": "Sunderland",
+    "pub": 41518,
+    "hts": "0-0",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "West Ham",
+    "pub": 56979,
+    "hts": "1-3",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Swansea",
+    "teamHome": "Bournemouth",
+    "pub": 11240,
+    "hts": "1-0",
+    "realdate": "Sat 18.03.17",
+    "time": "Sat 18.03.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Manchester U",
+    "teamHome": "Middlesbrough",
+    "pub": 32689,
+    "hts": "0-1",
+    "realdate": "Sun 19.03.17",
+    "time": "Sun 19.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Southampton",
+    "teamHome": "Tottenham",
+    "pub": 31697,
+    "hts": "2-0",
+    "realdate": "Sun 19.03.17",
+    "time": "Sun 19.03.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Manchester C",
+    "pub": 54449,
+    "hts": "0-0",
+    "realdate": "Sun 19.03.17",
+    "time": "Sun 19.03.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 72,
+    "bp": 63,
+    "bc": 24
+  }, {
+    "team": "Tottenham",
+    "pts": 62,
+    "bp": 56,
+    "bc": 21
+  }, {
+    "team": "Manchester C",
+    "pts": 58,
+    "bp": 54,
+    "bc": 30
+  }, {
+    "team": "Liverpool",
+    "pts": 56,
+    "bp": 61,
+    "bc": 36
+  }, {
+    "team": "Arsenal",
+    "pts": 56,
+    "bp": 59,
+    "bc": 34
+  }, {
+    "team": "Manchester U",
+    "pts": 54,
+    "bp": 42,
+    "bc": 23
+  }, {
+    "team": "Everton",
+    "pts": 50,
+    "bp": 51,
+    "bc": 30
+  }, {
+    "team": "West Bromwich",
+    "pts": 43,
+    "bp": 39,
+    "bc": 38
+  }, {
+    "team": "Stoke",
+    "pts": 36,
+    "bp": 33,
+    "bc": 42
+  }, {
+    "team": "Southampton",
+    "pts": 34,
+    "bp": 33,
+    "bc": 38
+  }, {
+    "team": "Bournemouth",
+    "pts": 33,
+    "bp": 42,
+    "bc": 54
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 40,
+    "bc": 52
+  }, {
+    "team": "Burnley",
+    "pts": 32,
+    "bp": 31,
+    "bc": 42
+  }, {
+    "team": "Watford",
+    "pts": 31,
+    "bp": 36,
+    "bc": 52
+  }, {
+    "team": "Leicester",
+    "pts": 30,
+    "bp": 33,
+    "bc": 48
+  }, {
+    "team": "Crystal P",
+    "pts": 28,
+    "bp": 36,
+    "bc": 47
+  }, {
+    "team": "Swansea",
+    "pts": 27,
+    "bp": 36,
+    "bc": 63
+  }, {
+    "team": "Middlesbrough",
+    "pts": 25,
+    "bp": 21,
+    "bc": 33
+  }, {
+    "team": "Hull",
+    "pts": 24,
+    "bp": 26,
+    "bc": 58
+  }, {
+    "team": "Sunderland",
+    "pts": 20,
+    "bp": 24,
+    "bc": 51
+  }],
+  "minPts": 20,
+  "maxPts": 72
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Everton",
+    "teamHome": "Liverpool",
+    "pub": 52920,
+    "hts": "2-1",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Tottenham",
+    "teamHome": "Burnley",
+    "pub": 21684,
+    "hts": "0-0",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Chelsea",
+    "pub": 41489,
+    "hts": "1-2",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "West Ham",
+    "teamHome": "Hull",
+    "pub": 20820,
+    "hts": "0-1",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Stoke",
+    "teamHome": "Leicester",
+    "pub": 31958,
+    "hts": "1-0",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "West Bromwich",
+    "teamHome": "Manchester U",
+    "pub": 75397,
+    "hts": "0-0",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Sunderland",
+    "teamHome": "Watford",
+    "pub": 20805,
+    "hts": "0-0",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Bournemouth",
+    "teamHome": "Southampton",
+    "pub": 31847,
+    "hts": "0-0",
+    "realdate": "Sat 01.04.17",
+    "time": "Sat 01.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Swansea",
+    "pub": 20354,
+    "hts": "0-0",
+    "realdate": "Sun 02.04.17",
+    "time": "Sun 02.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Manchester C",
+    "teamHome": "Arsenal",
+    "pub": 60001,
+    "hts": "1-2",
+    "realdate": "Sun 02.04.17",
+    "time": "Sun 02.04.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 72,
+    "bp": 64,
+    "bc": 26
+  }, {
+    "team": "Tottenham",
+    "pts": 65,
+    "bp": 58,
+    "bc": 21
+  }, {
+    "team": "Liverpool",
+    "pts": 59,
+    "bp": 64,
+    "bc": 37
+  }, {
+    "team": "Manchester C",
+    "pts": 59,
+    "bp": 56,
+    "bc": 32
+  }, {
+    "team": "Arsenal",
+    "pts": 57,
+    "bp": 61,
+    "bc": 36
+  }, {
+    "team": "Manchester U",
+    "pts": 55,
+    "bp": 42,
+    "bc": 23
+  }, {
+    "team": "Everton",
+    "pts": 50,
+    "bp": 52,
+    "bc": 33
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 39,
+    "bc": 38
+  }, {
+    "team": "Stoke",
+    "pts": 36,
+    "bp": 33,
+    "bc": 44
+  }, {
+    "team": "Southampton",
+    "pts": 35,
+    "bp": 33,
+    "bc": 38
+  }, {
+    "team": "Bournemouth",
+    "pts": 34,
+    "bp": 42,
+    "bc": 54
+  }, {
+    "team": "Watford",
+    "pts": 34,
+    "bp": 37,
+    "bc": 52
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 41,
+    "bc": 54
+  }, {
+    "team": "Leicester",
+    "pts": 33,
+    "bp": 35,
+    "bc": 48
+  }, {
+    "team": "Burnley",
+    "pts": 32,
+    "bp": 31,
+    "bc": 44
+  }, {
+    "team": "Crystal P",
+    "pts": 31,
+    "bp": 38,
+    "bc": 48
+  }, {
+    "team": "Swansea",
+    "pts": 28,
+    "bp": 36,
+    "bc": 63
+  }, {
+    "team": "Hull",
+    "pts": 27,
+    "bp": 28,
+    "bc": 59
+  }, {
+    "team": "Middlesbrough",
+    "pts": 26,
+    "bp": 21,
+    "bc": 33
+  }, {
+    "team": "Sunderland",
+    "pts": 20,
+    "bp": 24,
+    "bc": 52
+  }],
+  "minPts": 20,
+  "maxPts": 72
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Stoke",
+    "teamHome": "Burnley",
+    "pub": 19881,
+    "hts": "0-0",
+    "realdate": "Tue 04.04.17",
+    "time": "Tue 04.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Leicester",
+    "pub": 31757,
+    "hts": "0-0",
+    "realdate": "Tue 04.04.17",
+    "time": "Tue 04.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "West Bromwich",
+    "teamHome": "Watford",
+    "pub": 20090,
+    "hts": "1-0",
+    "realdate": "Tue 04.04.17",
+    "time": "Tue 04.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Manchester U",
+    "pub": 75272,
+    "hts": "0-1",
+    "realdate": "Tue 04.04.17",
+    "time": "Tue 04.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "West Ham",
+    "teamHome": "Arsenal",
+    "pub": 59961,
+    "hts": "0-0",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Hull",
+    "pub": 20380,
+    "hts": "3-2",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Crystal P",
+    "teamHome": "Southampton",
+    "pub": 29968,
+    "hts": "1-1",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Swansea",
+    "pub": 20855,
+    "hts": "1-0",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Manchester C",
+    "teamHome": "Chelsea",
+    "pub": 41528,
+    "hts": "2-1",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Bournemouth",
+    "teamHome": "Liverpool",
+    "pub": 53292,
+    "hts": "1-1",
+    "realdate": "Wed 05.04.17",
+    "time": "Wed 05.04.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 75,
+    "bp": 66,
+    "bc": 27
+  }, {
+    "team": "Tottenham",
+    "pts": 68,
+    "bp": 61,
+    "bc": 22
+  }, {
+    "team": "Arsenal",
+    "pts": 60,
+    "bp": 64,
+    "bc": 36
+  }, {
+    "team": "Liverpool",
+    "pts": 60,
+    "bp": 66,
+    "bc": 39
+  }, {
+    "team": "Manchester C",
+    "pts": 59,
+    "bp": 57,
+    "bc": 34
+  }, {
+    "team": "Manchester U",
+    "pts": 56,
+    "bp": 43,
+    "bc": 24
+  }, {
+    "team": "Everton",
+    "pts": 51,
+    "bp": 53,
+    "bc": 34
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 39,
+    "bc": 40
+  }, {
+    "team": "Southampton",
+    "pts": 38,
+    "bp": 36,
+    "bc": 39
+  }, {
+    "team": "Watford",
+    "pts": 37,
+    "bp": 39,
+    "bc": 52
+  }, {
+    "team": "Leicester",
+    "pts": 36,
+    "bp": 37,
+    "bc": 48
+  }, {
+    "team": "Stoke",
+    "pts": 36,
+    "bp": 33,
+    "bc": 45
+  }, {
+    "team": "Bournemouth",
+    "pts": 35,
+    "bp": 44,
+    "bc": 56
+  }, {
+    "team": "Burnley",
+    "pts": 35,
+    "bp": 32,
+    "bc": 44
+  }, {
+    "team": "West Ham",
+    "pts": 33,
+    "bp": 41,
+    "bc": 57
+  }, {
+    "team": "Crystal P",
+    "pts": 31,
+    "bp": 39,
+    "bc": 51
+  }, {
+    "team": "Hull",
+    "pts": 30,
+    "bp": 32,
+    "bc": 61
+  }, {
+    "team": "Swansea",
+    "pts": 28,
+    "bp": 37,
+    "bc": 66
+  }, {
+    "team": "Middlesbrough",
+    "pts": 26,
+    "bp": 23,
+    "bc": 37
+  }, {
+    "team": "Sunderland",
+    "pts": 20,
+    "bp": 24,
+    "bc": 54
+  }],
+  "minPts": 20,
+  "maxPts": 75
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Watford",
+    "teamHome": "Tottenham",
+    "pub": 31706,
+    "hts": "3-0",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "Manchester C",
+    "pub": 54393,
+    "hts": "1-0",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Burnley",
+    "teamHome": "Middlesbrough",
+    "pub": 29547,
+    "hts": "0-0",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Liverpool",
+    "teamHome": "Stoke",
+    "pub": 27568,
+    "hts": "1-0",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "West Bromwich",
+    "pub": 24697,
+    "hts": "0-1",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "West Ham",
+    "pub": 56973,
+    "hts": "1-0",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 1,
+    "teamAway": "Chelsea",
+    "teamHome": "Bournemouth",
+    "pub": 11283,
+    "hts": "1-2",
+    "realdate": "Sat 08.04.17",
+    "time": "Sat 08.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Sunderland",
+    "pub": 43779,
+    "hts": "0-1",
+    "realdate": "Sun 09.04.17",
+    "time": "Sun 09.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "Leicester",
+    "teamHome": "Everton",
+    "pub": 39573,
+    "hts": "3-2",
+    "realdate": "Sun 09.04.17",
+    "time": "Sun 09.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Arsenal",
+    "teamHome": "Crystal P",
+    "pub": 25648,
+    "hts": "1-0",
+    "realdate": "Mon 10.04.17",
+    "time": "Mon 10.04.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 78,
+    "bp": 69,
+    "bc": 28
+  }, {
+    "team": "Tottenham",
+    "pts": 71,
+    "bp": 65,
+    "bc": 22
+  }, {
+    "team": "Liverpool",
+    "pts": 63,
+    "bp": 68,
+    "bc": 40
+  }, {
+    "team": "Manchester C",
+    "pts": 62,
+    "bp": 60,
+    "bc": 35
+  }, {
+    "team": "Arsenal",
+    "pts": 60,
+    "bp": 64,
+    "bc": 39
+  }, {
+    "team": "Manchester U",
+    "pts": 59,
+    "bp": 46,
+    "bc": 24
+  }, {
+    "team": "Everton",
+    "pts": 54,
+    "bp": 57,
+    "bc": 36
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 39,
+    "bc": 41
+  }, {
+    "team": "Southampton",
+    "pts": 41,
+    "bp": 37,
+    "bc": 39
+  }, {
+    "team": "Watford",
+    "pts": 37,
+    "bp": 39,
+    "bc": 56
+  }, {
+    "team": "Burnley",
+    "pts": 36,
+    "bp": 32,
+    "bc": 44
+  }, {
+    "team": "Leicester",
+    "pts": 36,
+    "bp": 39,
+    "bc": 52
+  }, {
+    "team": "Stoke",
+    "pts": 36,
+    "bp": 34,
+    "bc": 47
+  }, {
+    "team": "West Ham",
+    "pts": 36,
+    "bp": 42,
+    "bc": 57
+  }, {
+    "team": "Bournemouth",
+    "pts": 35,
+    "bp": 45,
+    "bc": 59
+  }, {
+    "team": "Crystal P",
+    "pts": 34,
+    "bp": 42,
+    "bc": 51
+  }, {
+    "team": "Hull",
+    "pts": 30,
+    "bp": 33,
+    "bc": 64
+  }, {
+    "team": "Swansea",
+    "pts": 28,
+    "bp": 37,
+    "bc": 67
+  }, {
+    "team": "Middlesbrough",
+    "pts": 27,
+    "bp": 23,
+    "bc": 37
+  }, {
+    "team": "Sunderland",
+    "pts": 20,
+    "bp": 24,
+    "bc": 57
+  }],
+  "minPts": 20,
+  "maxPts": 78
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Bournemouth",
+    "teamHome": "Tottenham",
+    "pub": 31943,
+    "hts": "2-0",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Crystal P",
+    "pub": 25504,
+    "hts": "0-1",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Burnley",
+    "teamHome": "Everton",
+    "pub": 39328,
+    "hts": "0-0",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Hull",
+    "teamHome": "Stoke",
+    "pub": 27505,
+    "hts": "1-0",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "West Ham",
+    "teamHome": "Sunderland",
+    "pub": 40168,
+    "hts": "1-1",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "Watford",
+    "pub": 20272,
+    "hts": "1-0",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "Southampton",
+    "pub": 31850,
+    "hts": "0-0",
+    "realdate": "Sat 15.04.17",
+    "time": "Sat 15.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "West Bromwich",
+    "pub": 25669,
+    "hts": "0-1",
+    "realdate": "Sun 16.04.17",
+    "time": "Sun 16.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Chelsea",
+    "teamHome": "Manchester U",
+    "pub": 75272,
+    "hts": "1-0",
+    "realdate": "Sun 16.04.17",
+    "time": "Sun 16.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Middlesbrough",
+    "pub": 31298,
+    "hts": "0-1",
+    "realdate": "Mon 17.04.17",
+    "time": "Mon 17.04.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 78,
+    "bp": 69,
+    "bc": 30
+  }, {
+    "team": "Tottenham",
+    "pts": 74,
+    "bp": 69,
+    "bc": 22
+  }, {
+    "team": "Liverpool",
+    "pts": 66,
+    "bp": 69,
+    "bc": 40
+  }, {
+    "team": "Manchester C",
+    "pts": 65,
+    "bp": 63,
+    "bc": 35
+  }, {
+    "team": "Arsenal",
+    "pts": 63,
+    "bp": 66,
+    "bc": 40
+  }, {
+    "team": "Manchester U",
+    "pts": 62,
+    "bp": 48,
+    "bc": 24
+  }, {
+    "team": "Everton",
+    "pts": 57,
+    "bp": 60,
+    "bc": 37
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 39,
+    "bc": 42
+  }, {
+    "team": "Southampton",
+    "pts": 41,
+    "bp": 37,
+    "bc": 42
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 56
+  }, {
+    "team": "Stoke",
+    "pts": 39,
+    "bp": 37,
+    "bc": 48
+  }, {
+    "team": "Leicester",
+    "pts": 37,
+    "bp": 41,
+    "bc": 54
+  }, {
+    "team": "West Ham",
+    "pts": 37,
+    "bp": 44,
+    "bc": 59
+  }, {
+    "team": "Burnley",
+    "pts": 36,
+    "bp": 33,
+    "bc": 47
+  }, {
+    "team": "Crystal P",
+    "pts": 35,
+    "bp": 44,
+    "bc": 53
+  }, {
+    "team": "Bournemouth",
+    "pts": 35,
+    "bp": 45,
+    "bc": 63
+  }, {
+    "team": "Hull",
+    "pts": 30,
+    "bp": 34,
+    "bc": 67
+  }, {
+    "team": "Swansea",
+    "pts": 28,
+    "bp": 37,
+    "bc": 68
+  }, {
+    "team": "Middlesbrough",
+    "pts": 27,
+    "bp": 24,
+    "bc": 39
+  }, {
+    "team": "Sunderland",
+    "pts": 21,
+    "bp": 26,
+    "bc": 59
+  }],
+  "minPts": 21,
+  "maxPts": 78
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Bournemouth",
+    "pub": 10890,
+    "hts": "2-0",
+    "realdate": "Sat 22.04.17",
+    "time": "Sat 22.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Watford",
+    "teamHome": "Hull",
+    "pub": 20432,
+    "hts": "0-0",
+    "realdate": "Sat 22.04.17",
+    "time": "Sat 22.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Stoke",
+    "teamHome": "Swansea",
+    "pub": 20566,
+    "hts": "1-0",
+    "realdate": "Sat 22.04.17",
+    "time": "Sat 22.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Everton",
+    "teamHome": "West Ham",
+    "pub": 56971,
+    "hts": "0-0",
+    "realdate": "Sat 22.04.17",
+    "time": "Sat 22.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Manchester U",
+    "teamHome": "Burnley",
+    "pub": 21870,
+    "hts": "0-2",
+    "realdate": "Sun 23.04.17",
+    "time": "Sun 23.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Crystal P",
+    "teamHome": "Liverpool",
+    "pub": 53086,
+    "hts": "1-1",
+    "realdate": "Sun 23.04.17",
+    "time": "Sun 23.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 4,
+    "teamAway": "Southampton",
+    "teamHome": "Chelsea",
+    "pub": 41168,
+    "hts": "2-1",
+    "realdate": "Tue 25.04.17",
+    "time": "Tue 25.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Sunderland",
+    "teamHome": "Arsenal",
+    "pub": 59510,
+    "hts": "0-0",
+    "realdate": "Tue 16.05.17",
+    "time": "Tue 16.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "West Bromwich",
+    "teamHome": "Manchester C",
+    "pub": 53624,
+    "hts": "2-0",
+    "realdate": "Tue 16.05.17",
+    "time": "Tue 16.05.17"
+  }, {
+    "goalsAway": 6,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Leicester",
+    "pub": 31351,
+    "hts": "0-2",
+    "realdate": "Thu 18.05.17",
+    "time": "Thu 18.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 81,
+    "bp": 73,
+    "bc": 32
+  }, {
+    "team": "Tottenham",
+    "pts": 77,
+    "bp": 75,
+    "bc": 23
+  }, {
+    "team": "Manchester C",
+    "pts": 68,
+    "bp": 66,
+    "bc": 36
+  }, {
+    "team": "Liverpool",
+    "pts": 66,
+    "bp": 70,
+    "bc": 42
+  }, {
+    "team": "Arsenal",
+    "pts": 66,
+    "bp": 68,
+    "bc": 40
+  }, {
+    "team": "Manchester U",
+    "pts": 65,
+    "bp": 50,
+    "bc": 24
+  }, {
+    "team": "Everton",
+    "pts": 58,
+    "bp": 60,
+    "bc": 37
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 40,
+    "bc": 45
+  }, {
+    "team": "Southampton",
+    "pts": 41,
+    "bp": 39,
+    "bc": 46
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 58
+  }, {
+    "team": "Stoke",
+    "pts": 39,
+    "bp": 37,
+    "bc": 50
+  }, {
+    "team": "Crystal P",
+    "pts": 38,
+    "bp": 46,
+    "bc": 54
+  }, {
+    "team": "Bournemouth",
+    "pts": 38,
+    "bp": 49,
+    "bc": 63
+  }, {
+    "team": "West Ham",
+    "pts": 38,
+    "bp": 44,
+    "bc": 59
+  }, {
+    "team": "Leicester",
+    "pts": 37,
+    "bp": 42,
+    "bc": 60
+  }, {
+    "team": "Burnley",
+    "pts": 36,
+    "bp": 33,
+    "bc": 49
+  }, {
+    "team": "Hull",
+    "pts": 33,
+    "bp": 36,
+    "bc": 67
+  }, {
+    "team": "Swansea",
+    "pts": 31,
+    "bp": 39,
+    "bc": 68
+  }, {
+    "team": "Middlesbrough",
+    "pts": 27,
+    "bp": 24,
+    "bc": 43
+  }, {
+    "team": "Sunderland",
+    "pts": 21,
+    "bp": 26,
+    "bc": 61
+  }],
+  "minPts": 21,
+  "maxPts": 81
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Hull",
+    "teamHome": "Southampton",
+    "pub": 31120,
+    "hts": "0-0",
+    "realdate": "Sat 29.04.17",
+    "time": "Sat 29.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "West Ham",
+    "teamHome": "Stoke",
+    "pub": 27628,
+    "hts": "0-0",
+    "realdate": "Sat 29.04.17",
+    "time": "Sat 29.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Bournemouth",
+    "teamHome": "Sunderland",
+    "pub": 38394,
+    "hts": "0-0",
+    "realdate": "Sat 29.04.17",
+    "time": "Sat 29.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Leicester",
+    "teamHome": "West Bromwich",
+    "pub": 24611,
+    "hts": "0-1",
+    "realdate": "Sat 29.04.17",
+    "time": "Sat 29.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Burnley",
+    "teamHome": "Crystal P",
+    "pub": 25013,
+    "hts": "0-1",
+    "realdate": "Sat 29.04.17",
+    "time": "Sat 29.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Swansea",
+    "teamHome": "Manchester U",
+    "pub": 75271,
+    "hts": "1-0",
+    "realdate": "Sun 30.04.17",
+    "time": "Sun 30.04.17"
+  }, {
+    "goalsAway": 3,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "Everton",
+    "pub": 39595,
+    "hts": "0-0",
+    "realdate": "Sun 30.04.17",
+    "time": "Sun 30.04.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Manchester C",
+    "teamHome": "Middlesbrough",
+    "pub": 29763,
+    "hts": "1-0",
+    "realdate": "Sun 30.04.17",
+    "time": "Sun 30.04.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Arsenal",
+    "teamHome": "Tottenham",
+    "pub": 31811,
+    "hts": "0-0",
+    "realdate": "Sun 30.04.17",
+    "time": "Sun 30.04.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "Watford",
+    "pub": 20959,
+    "hts": "0-1",
+    "realdate": "Mon 01.05.17",
+    "time": "Mon 01.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 84,
+    "bp": 76,
+    "bc": 32
+  }, {
+    "team": "Tottenham",
+    "pts": 80,
+    "bp": 77,
+    "bc": 23
+  }, {
+    "team": "Manchester C",
+    "pts": 69,
+    "bp": 68,
+    "bc": 38
+  }, {
+    "team": "Liverpool",
+    "pts": 69,
+    "bp": 71,
+    "bc": 42
+  }, {
+    "team": "Arsenal",
+    "pts": 66,
+    "bp": 68,
+    "bc": 42
+  }, {
+    "team": "Manchester U",
+    "pts": 66,
+    "bp": 51,
+    "bc": 25
+  }, {
+    "team": "Everton",
+    "pts": 58,
+    "bp": 60,
+    "bc": 40
+  }, {
+    "team": "West Bromwich",
+    "pts": 44,
+    "bp": 40,
+    "bc": 46
+  }, {
+    "team": "Southampton",
+    "pts": 42,
+    "bp": 39,
+    "bc": 46
+  }, {
+    "team": "Bournemouth",
+    "pts": 41,
+    "bp": 50,
+    "bc": 63
+  }, {
+    "team": "Stoke",
+    "pts": 40,
+    "bp": 37,
+    "bc": 50
+  }, {
+    "team": "Leicester",
+    "pts": 40,
+    "bp": 43,
+    "bc": 60
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 59
+  }, {
+    "team": "Burnley",
+    "pts": 39,
+    "bp": 35,
+    "bc": 49
+  }, {
+    "team": "West Ham",
+    "pts": 39,
+    "bp": 44,
+    "bc": 59
+  }, {
+    "team": "Crystal P",
+    "pts": 38,
+    "bp": 46,
+    "bc": 56
+  }, {
+    "team": "Hull",
+    "pts": 34,
+    "bp": 36,
+    "bc": 67
+  }, {
+    "team": "Swansea",
+    "pts": 32,
+    "bp": 40,
+    "bc": 69
+  }, {
+    "team": "Middlesbrough",
+    "pts": 28,
+    "bp": 26,
+    "bc": 45
+  }, {
+    "team": "Sunderland",
+    "pts": 21,
+    "bp": 26,
+    "bc": 62
+  }],
+  "minPts": 21,
+  "maxPts": 84
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "West Ham",
+    "pub": 56992,
+    "hts": "0-0",
+    "realdate": "Fri 05.05.17",
+    "time": "Fri 05.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 5,
+    "teamAway": "Crystal P",
+    "teamHome": "Manchester C",
+    "pub": 54119,
+    "hts": "1-0",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "Stoke",
+    "teamHome": "Bournemouth",
+    "pub": 11046,
+    "hts": "0-1",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 2,
+    "teamAway": "West Bromwich",
+    "teamHome": "Burnley",
+    "pub": 20825,
+    "hts": "0-0",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Sunderland",
+    "teamHome": "Hull",
+    "pub": 22480,
+    "hts": "0-0",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Watford",
+    "teamHome": "Leicester",
+    "pub": 31628,
+    "hts": "1-0",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Everton",
+    "teamHome": "Swansea",
+    "pub": 20827,
+    "hts": "1-0",
+    "realdate": "Sat 06.05.17",
+    "time": "Sat 06.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 0,
+    "teamAway": "Southampton",
+    "teamHome": "Liverpool",
+    "pub": 53159,
+    "hts": "0-0",
+    "realdate": "Sun 07.05.17",
+    "time": "Sun 07.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Manchester U",
+    "teamHome": "Arsenal",
+    "pub": 60055,
+    "hts": "0-0",
+    "realdate": "Sun 07.05.17",
+    "time": "Sun 07.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Chelsea",
+    "pub": 41500,
+    "hts": "2-0",
+    "realdate": "Mon 08.05.17",
+    "time": "Mon 08.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 87,
+    "bp": 79,
+    "bc": 32
+  }, {
+    "team": "Tottenham",
+    "pts": 80,
+    "bp": 77,
+    "bc": 24
+  }, {
+    "team": "Manchester C",
+    "pts": 72,
+    "bp": 73,
+    "bc": 38
+  }, {
+    "team": "Liverpool",
+    "pts": 70,
+    "bp": 71,
+    "bc": 42
+  }, {
+    "team": "Arsenal",
+    "pts": 69,
+    "bp": 70,
+    "bc": 42
+  }, {
+    "team": "Manchester U",
+    "pts": 66,
+    "bp": 51,
+    "bc": 27
+  }, {
+    "team": "Everton",
+    "pts": 58,
+    "bp": 60,
+    "bc": 41
+  }, {
+    "team": "West Bromwich",
+    "pts": 45,
+    "bp": 42,
+    "bc": 48
+  }, {
+    "team": "Southampton",
+    "pts": 43,
+    "bp": 39,
+    "bc": 46
+  }, {
+    "team": "Leicester",
+    "pts": 43,
+    "bp": 46,
+    "bc": 60
+  }, {
+    "team": "Bournemouth",
+    "pts": 42,
+    "bp": 52,
+    "bc": 65
+  }, {
+    "team": "West Ham",
+    "pts": 42,
+    "bp": 45,
+    "bc": 59
+  }, {
+    "team": "Stoke",
+    "pts": 41,
+    "bp": 39,
+    "bc": 52
+  }, {
+    "team": "Burnley",
+    "pts": 40,
+    "bp": 37,
+    "bc": 51
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 62
+  }, {
+    "team": "Crystal P",
+    "pts": 38,
+    "bp": 46,
+    "bc": 61
+  }, {
+    "team": "Swansea",
+    "pts": 35,
+    "bp": 41,
+    "bc": 69
+  }, {
+    "team": "Hull",
+    "pts": 34,
+    "bp": 36,
+    "bc": 69
+  }, {
+    "team": "Middlesbrough",
+    "pts": 28,
+    "bp": 26,
+    "bc": 48
+  }, {
+    "team": "Sunderland",
+    "pts": 24,
+    "bp": 28,
+    "bc": 62
+  }],
+  "minPts": 24,
+  "maxPts": 87
+}, {
+  "gameList": [{
+    "goalsAway": 0,
+    "goalsHome": 1,
+    "teamAway": "Watford",
+    "teamHome": "Everton",
+    "pub": 38550,
+    "hts": "0-0",
+    "realdate": "Fri 12.05.17",
+    "time": "Fri 12.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Chelsea",
+    "teamHome": "West Bromwich",
+    "pub": 25367,
+    "hts": "0-0",
+    "realdate": "Fri 12.05.17",
+    "time": "Fri 12.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Leicester",
+    "teamHome": "Manchester C",
+    "pub": 54407,
+    "hts": "2-1",
+    "realdate": "Sat 13.05.17",
+    "time": "Sat 13.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Burnley",
+    "teamHome": "Bournemouth",
+    "pub": 11388,
+    "hts": "1-0",
+    "realdate": "Sat 13.05.17",
+    "time": "Sat 13.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "Southampton",
+    "teamHome": "Middlesbrough",
+    "pub": 28203,
+    "hts": "0-1",
+    "realdate": "Sat 13.05.17",
+    "time": "Sat 13.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 0,
+    "teamAway": "Swansea",
+    "teamHome": "Sunderland",
+    "pub": 38781,
+    "hts": "0-2",
+    "realdate": "Sat 13.05.17",
+    "time": "Sat 13.05.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 1,
+    "teamAway": "Arsenal",
+    "teamHome": "Stoke",
+    "pub": 27535,
+    "hts": "0-1",
+    "realdate": "Sat 13.05.17",
+    "time": "Sat 13.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 4,
+    "teamAway": "Hull",
+    "teamHome": "Crystal P",
+    "pub": 25176,
+    "hts": "2-0",
+    "realdate": "Sun 14.05.17",
+    "time": "Sun 14.05.17"
+  }, {
+    "goalsAway": 4,
+    "goalsHome": 0,
+    "teamAway": "Liverpool",
+    "teamHome": "West Ham",
+    "pub": 56985,
+    "hts": "0-1",
+    "realdate": "Sat 14.05.17",
+    "time": "Sat 14.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "Manchester U",
+    "teamHome": "Tottenham",
+    "pub": 31848,
+    "hts": "1-0",
+    "realdate": "Sat 14.05.17",
+    "time": "Sat 14.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 90,
+    "bp": 80,
+    "bc": 32
+  }, {
+    "team": "Tottenham",
+    "pts": 83,
+    "bp": 79,
+    "bc": 25
+  }, {
+    "team": "Manchester C",
+    "pts": 75,
+    "bp": 75,
+    "bc": 39
+  }, {
+    "team": "Liverpool",
+    "pts": 73,
+    "bp": 75,
+    "bc": 42
+  }, {
+    "team": "Arsenal",
+    "pts": 72,
+    "bp": 74,
+    "bc": 43
+  }, {
+    "team": "Manchester U",
+    "pts": 66,
+    "bp": 52,
+    "bc": 29
+  }, {
+    "team": "Everton",
+    "pts": 61,
+    "bp": 61,
+    "bc": 41
+  }, {
+    "team": "Southampton",
+    "pts": 46,
+    "bp": 41,
+    "bc": 47
+  }, {
+    "team": "West Bromwich",
+    "pts": 45,
+    "bp": 42,
+    "bc": 49
+  }, {
+    "team": "Bournemouth",
+    "pts": 45,
+    "bp": 54,
+    "bc": 66
+  }, {
+    "team": "Leicester",
+    "pts": 43,
+    "bp": 47,
+    "bc": 62
+  }, {
+    "team": "West Ham",
+    "pts": 42,
+    "bp": 45,
+    "bc": 63
+  }, {
+    "team": "Crystal P",
+    "pts": 41,
+    "bp": 50,
+    "bc": 61
+  }, {
+    "team": "Stoke",
+    "pts": 41,
+    "bp": 40,
+    "bc": 56
+  }, {
+    "team": "Burnley",
+    "pts": 40,
+    "bp": 38,
+    "bc": 53
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 63
+  }, {
+    "team": "Swansea",
+    "pts": 38,
+    "bp": 43,
+    "bc": 69
+  }, {
+    "team": "Hull",
+    "pts": 34,
+    "bp": 36,
+    "bc": 73
+  }, {
+    "team": "Middlesbrough",
+    "pts": 28,
+    "bp": 27,
+    "bc": 50
+  }, {
+    "team": "Sunderland",
+    "pts": 24,
+    "bp": 28,
+    "bc": 64
+  }],
+  "minPts": 24,
+  "maxPts": 90
+}, {
+  "gameList": [{
+    "goalsAway": 1,
+    "goalsHome": 3,
+    "teamAway": "Everton",
+    "teamHome": "Arsenal",
+    "pub": 59976,
+    "hts": "2-0",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 2,
+    "goalsHome": 1,
+    "teamAway": "West Ham",
+    "teamHome": "Burnley",
+    "pub": 21634,
+    "hts": "1-1",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 5,
+    "teamAway": "Sunderland",
+    "teamHome": "Chelsea",
+    "pub": 41618,
+    "hts": "1-1",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 7,
+    "goalsHome": 1,
+    "teamAway": "Tottenham",
+    "teamHome": "Hull",
+    "pub": 23804,
+    "hts": "0-3",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 1,
+    "teamAway": "Bournemouth",
+    "teamHome": "Leicester",
+    "pub": 32000,
+    "hts": "0-1",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 3,
+    "teamAway": "Middlesbrough",
+    "teamHome": "Liverpool",
+    "pub": 53191,
+    "hts": "1-0",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 0,
+    "goalsHome": 2,
+    "teamAway": "Crystal P",
+    "teamHome": "Manchester U",
+    "pub": 75254,
+    "hts": "2-0",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 0,
+    "teamAway": "Stoke",
+    "teamHome": "Southampton",
+    "pub": 31286,
+    "hts": "0-0",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 1,
+    "goalsHome": 2,
+    "teamAway": "West Bromwich",
+    "teamHome": "Swansea",
+    "pub": 20889,
+    "hts": "0-1",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }, {
+    "goalsAway": 5,
+    "goalsHome": 0,
+    "teamAway": "Manchester C",
+    "teamHome": "Watford",
+    "pub": 20829,
+    "hts": "0-4",
+    "realdate": "Sun 21.05.17",
+    "time": "Sun 21.05.17"
+  }],
+  "ranking": [{
+    "team": "Chelsea",
+    "pts": 93,
+    "bp": 85,
+    "bc": 33
+  }, {
+    "team": "Tottenham",
+    "pts": 86,
+    "bp": 86,
+    "bc": 26
+  }, {
+    "team": "Manchester C",
+    "pts": 78,
+    "bp": 80,
+    "bc": 39
+  }, {
+    "team": "Liverpool",
+    "pts": 76,
+    "bp": 78,
+    "bc": 42
+  }, {
+    "team": "Arsenal",
+    "pts": 75,
+    "bp": 77,
+    "bc": 44
+  }, {
+    "team": "Manchester U",
+    "pts": 69,
+    "bp": 54,
+    "bc": 29
+  }, {
+    "team": "Everton",
+    "pts": 61,
+    "bp": 62,
+    "bc": 44
+  }, {
+    "team": "Southampton",
+    "pts": 46,
+    "bp": 41,
+    "bc": 48
+  }, {
+    "team": "Bournemouth",
+    "pts": 46,
+    "bp": 55,
+    "bc": 67
+  }, {
+    "team": "West Bromwich",
+    "pts": 45,
+    "bp": 43,
+    "bc": 51
+  }, {
+    "team": "West Ham",
+    "pts": 45,
+    "bp": 47,
+    "bc": 64
+  }, {
+    "team": "Leicester",
+    "pts": 44,
+    "bp": 48,
+    "bc": 63
+  }, {
+    "team": "Stoke",
+    "pts": 44,
+    "bp": 41,
+    "bc": 56
+  }, {
+    "team": "Crystal P",
+    "pts": 41,
+    "bp": 50,
+    "bc": 63
+  }, {
+    "team": "Swansea",
+    "pts": 41,
+    "bp": 45,
+    "bc": 70
+  }, {
+    "team": "Burnley",
+    "pts": 40,
+    "bp": 39,
+    "bc": 55
+  }, {
+    "team": "Watford",
+    "pts": 40,
+    "bp": 40,
+    "bc": 68
+  }, {
+    "team": "Hull",
+    "pts": 34,
+    "bp": 37,
+    "bc": 80
+  }, {
+    "team": "Middlesbrough",
+    "pts": 28,
+    "bp": 27,
+    "bc": 53
+  }, {
+    "team": "Sunderland",
+    "pts": 24,
+    "bp": 29,
+    "bc": 69
+  }],
+  "minPts": 24,
+  "maxPts": 93
+}, null, null, null, null]
