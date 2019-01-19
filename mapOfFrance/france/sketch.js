@@ -1,22 +1,61 @@
-	let ligueFrancais2017 = {}; // Global object to hold results from the loadJSON call
+	 // Global object to hold results from the loadJSON call
 	let bubbles = []; // Global array to hold all bubble objects
-
+	
 // Put any asynchronous data loading in preload to complete before "setup" is run
-	function preload() {
-		
-	  ligueFrancais2017 = loadJSON('assets/ligue1-2017.json');
-	  
-	  
+	function draw() {
+	  //debugger;
+	  //selectedLeague = loadJSON('assets/ligue1-2017.json');
+	  //stroke(153);
+	  line(200,200, 1400, 1400);
 	  
 	  
 	  
 	}
+	$(document).ready(function() {
+  $( "#buttonRight" ).click(function() {
+		//debugger;
+	incrementSelectedGame(1);
+	});
+	$( "#buttonLeft" ).click(function() {
+		//debugger;
+		incrementSelectedGame(-1);
+	});
 	
+	$('#selectLeague').on('change', function() {
+		//debugger;
+		if(this.value == "League 1 2017"){
+			selectedLeague = ligueFrancais2017;
+		}else if(this.value == "League 1 2016"){
+			selectedLeague = ligueFrancais2016;
+		}
+		redrawScoreboardAndMap();
+});
+});
+	function redrawScoreboardAndMap(){
+		setup();
+		//debugger;
+		var mapData = window.JSMaps.maps.france;
+
+		$('#france-map').trigger('reDraw', mapData);
+		
+	}
+	function incrementSelectedGame(i){
+		//debugger;
+		if((gameSelected==0 && i<0) || (gameSelected == selectedLeague.length-1 && i>0)){
+			return;
+		}
+		
+		gameSelected = gameSelected + i;
+		redrawScoreboardAndMap();
+        
+	}
 	function setup() {
 	//debugger;
-	var scoreboard = ligueFrancais2017[3]["ranking"];
-	var leagueHTML = "Game 1"
-	$("#leagueLabel").text(leagueHTML);
+	createCanvas(720, 400);
+	var scoreboard = selectedLeague[gameSelected]["ranking"];
+	
+	
+	$("#leagueLabel").text("Game "+(gameSelected+1));
 	  var tableHtml = `<div class="header">Ligue 1</div>
 			<table class="table" cellspacing="0" id="table" data-id="17247">
 				<thead>
@@ -54,3 +93,10 @@
 			
 	$( "#scoreboard" ).html(tableHtml);
 	}
+	
+	
+	
+	
+	
+	
+	

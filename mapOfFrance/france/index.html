@@ -69,19 +69,15 @@
   <!-- Jquery is required, embed on your page if not already - don't embed 2 versions -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script>
   <!-- End Jquery -->
-  <!--P5 -->
-  <script src="../p5.js"></script>
-  <script src="../addons/p5.dom.min.js"></script>
-  <script src="../addons/p5.sound.min.js"></script>
+  
+  
   <!-- Map scripts - add the below to your page -->
   <!-- jsmaps-panzoom.js is optional if you are using enablePanZoom -->
+  <script src="jsonLoad.js"></script>
+  
   <link href="jsmaps/jsmaps.css" rel="stylesheet" type="text/css" />
-  <script src="jsmaps/jsmaps-libs.js" type="text/javascript"></script>
-  <script src="jsmaps/jsmaps-panzoom.js"></script>
-  <script src="jsmaps/jsmaps.js" type="text/javascript"></script>
-  <script src="maps/france.js" type="text/javascript"></script>
-  <script src="sketch.js"></script>
-  <!-- End Map scripts -->
+  
+  
 	<!-- BootStrap scripts -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
@@ -89,44 +85,47 @@
 </head>
 
 <body>
-
+	
+	<div id="title"><center><H1>Explore the football league of the world champions </H1></center></div>
 	<div id="background"></div>
-	<center><H1>Explore the football league of the world champions </H1></center>
+	<canvas id="fireworksCanvas" class="fireworks"></canvas>
+	
 	<div class="container">
 	<div class="row" style="height:50px">
-		<div class="col-sm-4">
+		<div class="col-sm-3">
 			<div>
-				<select>
-					<option value="default">League 1 2017</option>
+				<select id="selectLeague">
+					<option value="League 1 2017">League 1 2017</option>
 					<option value="League 1 2016">League 1 2016</option>
 				</select>
 			</div>
 		</div>
-		<div class="col-sm-5 row" id="leagueSelection">
-			<div class="col-sm-2">
+		<div class="col-sm-6 row" id="leagueSelection">
+			<div class="col-sm-2 col-lg-2">
 				<span id="buttonLeft"></span>
 			</div>
 			<label id="leagueLabel" class="col-sm-8"></label>
-			<div class="col-sm-2">
+			<div class="col-sm-2 col-lg-2">
 				<span id="buttonRight"></span>
 			</div>
 			
 		</div>
-		<div class="col-sm-3">
+		<div class="col-sm-3 col-lg-3">
 		</div>
 	</div>
 	<div class="row">
 	
-		<div class="col-sm-4" id="scoreboard">
+		<div class="col-sm-3" id="scoreboard">
 		</div>
 		<!-- Map html - add the below to your page -->
-		<div class="col-sm-8">
+		<div class="col-sm-9">
 			<div class="jsmaps-wrapper" id="france-map"></div>
 		</div>
 		
 		<!-- End Map html -->
 	  </div>
   </div>
+
 
   <script type="text/javascript">
 
@@ -142,5 +141,20 @@
   </script>
   
 </body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.js"></script>
+<script src="fireworks.js"></script>
+<!-- Map scripts -->
+<script src="jsmaps/jsmaps-libs.js" type="text/javascript"></script>
+<script src="jsmaps/jsmaps-panzoom.js"></script>
+<script src="jsmaps/jsmaps.js" type="text/javascript"></script>
+<script src="maps/france.js" type="text/javascript"></script>
+
+<!-- End Map scripts -->
+<!--P5 -->
+<script src="../p5.js"></script>
+<script src="../france/addons/p5.dom.min.js"></script>
+<script src="../france/addons/p5.sound.min.js"></script>
+<!--end P5 -->
+<script src="sketch.js"></script>
 
 </html>

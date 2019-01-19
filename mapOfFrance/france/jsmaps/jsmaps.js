@@ -1,9 +1,10 @@
 // Copyright 2010-2017 - http://jsmaps.io
 // License: http://jsmaps.io/support/license/
 // Version 3.1.3
+
 (function($) {
 	
-
+	
   /////////////////////////////
   //Create global JSMaps object
   /////////////////////////////
@@ -11,7 +12,7 @@
     "maps": {}
   }
 
-
+  
   /////////////////////////////
   //Polyfills
   /////////////////////////////
@@ -178,6 +179,7 @@
     //Helpers
     /////////////////////////////
     function animatePaths(paths, ids, color) {
+		
       $.each(ids, function(index, id) {
         paths[id].animate({
           fill: color
@@ -489,18 +491,39 @@
       //Main pins function
       /////////////////////////////
       function createPins() {
-
+		//debugger;
+		var max = 0;
+		var min = 50000;
         for (var i = 0; i < pins.length; i++) {
-
+		  
           pins[i].id = i;
+		  var additionalPinInfo = null;
+		  var isTeamHome = false;
+		  var isTeamAway = false;
+		  globalCurrentGameListInfo = selectedLeague[gameSelected]["gameList"];
+		  
+		  for(var j = 0; j < globalCurrentGameListInfo.length; j++){
+			  if(pins[i].name == globalCurrentGameListInfo[j]["teamHome"]){
+				  additionalPinInfo = globalCurrentGameListInfo[j];
+				  isTeamHome = true;
+				  break;
+			  }else if(pins[i].name == globalCurrentGameListInfo[j]["teamAway"]){
+				  additionalPinInfo = globalCurrentGameListInfo[j];
+				  isTeamAway = true;
+				  break;
+			  }
+		  }
+		  
+		  
 
           var pinattrs = {
             'cursor': 'pointer',
             'fill': pins[i].color,
             'stroke': config.strokeColor,
-            'id': i
+            'id': i,
+			'class' : 'test'
           };
-
+			
           var pin;
 
           // If image
@@ -515,19 +538,41 @@
           }
           // or circle
           else {
-            pin = r.circle(pins[i].xPos, pins[i].yPos, pins[i].pinWidth || config.pinSize).attr(pinattrs);
+			if(isTeamAway || additionalPinInfo == null){
+				pin = r.circle(pins[i].xPos, pins[i].yPos, pins[i].pinWidth || 0).attr(pinattrs);
+			}else{
+				//debugger;
+				//print(pins[i].name);
+				pin = r.circle(pins[i].xPos, pins[i].yPos, pins[i].pinWidth || config.pinSize * (additionalPinInfo["pub"] / 40000)).attr(pinattrs);
+				pin.attr("id", pins[i].name);
+			}
+            
           }
 
           pin.data('id', i);
           pin.name =  pins[i].name;
           pin.enable =  pins[i].enable;
+		  
+		  if(isTeamHome){
+			  pins[i].additionalPinInfo = additionalPinInfo;
+			  pins[i].text = `<h1>` + additionalPinInfo["teamHome"] + ` - ` + additionalPinInfo["teamAway"] + `</h1>
+			  <br /><p>Result: ` + additionalPinInfo["goalsHome"] + ` - ` + additionalPinInfo["goalsAway"] +`</p>
+			  <br /><p>Number of spectators: ` + additionalPinInfo["pub"] + `</p>`;
+		  }else if(isTeamAway){
+			  pins[i].text = `<h1>` + additionalPinInfo["teamAway"] + `</h1>
+			  <br /><p>This team is playing away against: ` + additionalPinInfo["teamHome"] +`</p>`
+		  }else{
+			  
+		  }
+		  
           pinsAr.push(pin);
           statesHitAreas.push(pin);
 
           function pinOverOut(e) {
-
+			
             var id = this.data('id');
             var target = pins[id];
+			
             var isMouseover = e.type === 'mouseover';
             var color = isMouseover ? target.hoverColor : target.color;
             var callback = isMouseover ? settings.onStateOver : settings.onStateOut;
@@ -536,9 +581,14 @@
             if (target != current) {
               animatePaths(pinsAr, [id], color);
             }
-
+			
             // Tooltip
-            isMouseover ? showTooltip(target.name) : removeTooltip();
+			if(target.additionalPinInfo != null && target.name == target.additionalPinInfo.teamHome){
+				isMouseover ? showTooltip(target.name + " - " + target.additionalPinInfo["teamAway"]) : removeTooltip();
+			}else{
+				isMouseover ? showTooltip(target.name) : removeTooltip();
+			}
+            
 
             // Trigger callback
             if ($.isFunction(callback)) {
@@ -549,7 +599,12 @@
           pin.mouseout(pinOverOut);
 
           pin.click(function(e) {
-
+			
+			window.human = true;
+			render.play();
+			updateCoords(e);
+			animateParticules(pointerX, pointerY);
+			
             if (panZoom && panZoom.isDragging()) return;
 
             var id = this.data('id');
@@ -557,7 +612,6 @@
 
             //Reset scrollbar
             resetScrollBar();
-
             if (current) {
               pathIds = current.groupIds || [current.id];
               animatePaths(isPin ? pinsAr : pathsAr, pathIds, current.color);
@@ -582,6 +636,7 @@
           });
 
         }
+		//alert(min + " " + max);
       }
 
 

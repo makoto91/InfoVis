@@ -2,7 +2,7 @@ window.JSMaps.maps.france = {
 	"config": {
 		"mapWidth": 598.939,
 		"mapHeight": 583.946,
-		"defaultText": "<h1>France</h1><br /><p>France, in Western Europe, encompasses medieval and port cities, tranquil villages, mountains and Mediterranean beaches. Paris, its capital, is known worldwide for its couture fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its sophisticated cuisine and its wines. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the immense Palace of Versailles are testaments to its long history.</p><p>During the Iron Age, what is now Metropolitan France was inhabited by the Gauls, a Celtic people. The Gauls were conquered in 51 BC by the Roman Empire, which held Gaul until 486. The Gallo-Romans faced raids and migration from the Germanic Franks, who dominated the region for hundreds of years, eventually creating the medieval Kingdom of France. France emerged as a major European power in the Late Middle Ages, with its victory in the Hundred Years War (1337 to 1453) strengthening French state-building and paving the way for a future centralized absolute monarchy. During the Renaissance, France experienced a vast cultural development and established the beginning of a global colonial empire. The 16th century was dominated by religious civil wars between Catholics and Protestants (Huguenots).</p>",
+		"defaultText": "Explore the league of the world champions",
 		"displayMousePosition":false
 	},
 	"paths": [
@@ -178,6 +178,36 @@ window.JSMaps.maps.france = {
 	],
 	"pins": [
 		{
+			"name": "Nancy",
+			"xPos": 479,
+			"yPos": 144,
+			"color": "#ffc90e",
+			"hoverColor": "#E32F02",
+			"selectedColor": "#feb41c",
+			"url": "http://jsmaps.io",
+			"text": "<h1>Nancy</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+		},
+		{
+			"name": "Lorient",
+			"xPos": 57,
+			"yPos": 210,
+			"color": "#ffc90e",
+			"hoverColor": "#E32F02",
+			"selectedColor": "#feb41c",
+			"url": "http://jsmaps.io",
+			"text": "<h1>Lorient</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+		},
+		{
+			"name": "Bastia",
+			"xPos": 591,
+			"yPos": 514,
+			"color": "#ffc90e",
+			"hoverColor": "#E32F02",
+			"selectedColor": "#feb41c",
+			"url": "http://jsmaps.io",
+			"text": "<h1>Bastia</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+		},
+		{
 			"name": "Dijon",
 			"xPos": 411,
 			"yPos": 242,
@@ -185,17 +215,17 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>Rouen</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Dijon</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
-			"name": "Paris",
+			"name": "Paris SG",
 			"xPos": 291,
 			"yPos": 144,
 			"color": "#ffc90e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Paris SG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Lille",
@@ -215,17 +245,17 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Strasbourg</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
-			"name": "Amiens",
+			"name": "Amiens SC",
 			"xPos": 296,
 			"yPos": 81,
 			"color": "#ffc90e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Amiens SC</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Metz",
@@ -235,7 +265,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Metz</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Troyes",
@@ -245,7 +275,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Troyes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Lyon",
@@ -255,27 +285,27 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>Rouen</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Lyon</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
-			"name": "Saint-Ettiene",
+			"name": "St Etienne",
 			"xPos": 385,
 			"yPos": 343,
 			"color": "#ffc90e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>St Ettiene</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
-			"name": "Monnaco",
+			"name": "Monaco",
 			"xPos": 508,
 			"yPos": 450,
 			"color": "#ffc90e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Monnaco</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Nice",
@@ -285,7 +315,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Nice</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Marseille",
@@ -295,7 +325,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Marseille</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Montpellier",
@@ -305,7 +335,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Montpellier</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Toulouse",
@@ -315,7 +345,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Toulouse</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Bordeaux",
@@ -325,7 +355,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>Rouen</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Bordeaux</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Nantes",
@@ -335,7 +365,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Nantes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Angers",
@@ -345,7 +375,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Angers</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Rennes",
@@ -355,7 +385,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Rennes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
 			"name": "Guingamp",
@@ -365,17 +395,17 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Guingamp</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
-			"name": "SMC",
+			"name": "Caen",
 			"xPos": 176,
 			"yPos": 118,
 			"color": "#ffc90e",
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
-			"text": "<h1>PSG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
+			"text": "<h1>Caen</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		}
 	]
 }
