@@ -1,3 +1,4 @@
+var myChart = {};
 var ligueFrancais2017 = [{
   "gameList": [{
     "goalsAway": 2,

@@ -543,7 +543,7 @@
 			}else{
 				//debugger;
 				//print(pins[i].name);
-				pin = r.circle(pins[i].xPos, pins[i].yPos, pins[i].pinWidth || config.pinSize * (additionalPinInfo["pub"] / 40000)).attr(pinattrs);
+				pin = r.circle(pins[i].xPos, pins[i].yPos, pins[i].pinWidth || config.pinSize * (additionalPinInfo["pub"] / 30000)).attr(pinattrs);
 				pin.attr("id", pins[i].name);
 			}
             
@@ -557,7 +557,10 @@
 			  pins[i].additionalPinInfo = additionalPinInfo;
 			  pins[i].text = `<h1>` + additionalPinInfo["teamHome"] + ` - ` + additionalPinInfo["teamAway"] + `</h1>
 			  <br /><p>Result: ` + additionalPinInfo["goalsHome"] + ` - ` + additionalPinInfo["goalsAway"] +`</p>
-			  <br /><p>Number of spectators: ` + additionalPinInfo["pub"] + `</p>`;
+			  <br /><p>Number of spectators: ` + additionalPinInfo["pub"] + `</p>
+			  <div class="col-sm-12" id="pieChartContainer" style="height: 200px; opacity: 0.7;">
+		</div>`;
+		
 		  }else if(isTeamAway){
 			  pins[i].text = `<h1>` + additionalPinInfo["teamAway"] + `</h1>
 			  <br /><p>This team is playing away against: ` + additionalPinInfo["teamHome"] +`</p>`
@@ -632,7 +635,27 @@
             if ($.isFunction(settings.onStateClick)) {
               settings.onStateClick.call(this, target);
             }
-
+			var atendancePrecentage = Number.parseFloat((target.additionalPinInfo["pub"] / 60000) * 100).toFixed(2);
+			var myPieChart = new CanvasJS.Chart("pieChartContainer", {
+                animationEnabled: true,
+                theme: "light5",
+                title: {
+                    text: "Attendance precentage"
+                },
+                data: [{
+				type: "pie",
+				startAngle: 240,
+				yValueFormatString: "##0.00\"%\"",
+				indexLabel: "{label} {y}",
+				dataPoints: [
+					{y: atendancePrecentage, label: "Full ( " + target.additionalPinInfo["pub"] + " )"},
+					{y: 100 - atendancePrecentage, label: "Empty ( " + (60000 - target.additionalPinInfo["pub"]) + " )"}
+				]
+			}]
+				
+            });
+			myPieChart.render();
+			
           });
 
         }

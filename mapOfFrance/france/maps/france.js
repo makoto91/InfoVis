@@ -2,7 +2,8 @@ window.JSMaps.maps.france = {
 	"config": {
 		"mapWidth": 598.939,
 		"mapHeight": 583.946,
-		"defaultText": "Explore the league of the world champions",
+		"defaultText": `<h1>More info about the game.</h1><br /><p>This section will contain more info about the game you select</p>
+		<br />`,
 		"displayMousePosition":false
 	},
 	"paths": [

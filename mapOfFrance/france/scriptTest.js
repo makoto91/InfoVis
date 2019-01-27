@@ -1,18 +1,4 @@
-	 // Global object to hold results from the loadJSON call
-	let bubbles = []; // Global array to hold all bubble objects
-	
-// Put any asynchronous data loading in preload to complete before "setup" is run
-	function draw() {
-	  //debugger;
-	  //selectedLeague = loadJSON('assets/ligue1-2017.json');
-	  //stroke(153);
-	  //line(200,200, 1400, 1400);
-	  
-	  
-	  
-	}
-
-	function redrawScoreboardAndMap(){
+function redrawScoreboardAndMap(){
 		setup();
 		//debugger;
 		var mapData = window.JSMaps.maps.france;
@@ -21,6 +7,10 @@
 		drawChart();
 		//myChart.update();
 		
+	}
+	function setSelectedGame(gameIndex){
+		gameSelected = gameIndex;
+		redrawScoreboardAndMap();
 	}
 	function incrementSelectedGame(i){
 		//debugger;
@@ -76,10 +66,9 @@
 			
 	$( "#scoreboard" ).html(tableHtml);
 	}
+(function($) {
+	
+	setup();
 	
 	
-	
-	
-	
-	
-	
+	})(jQuery);
