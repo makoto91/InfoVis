@@ -186,6 +186,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 20087,
 			"text": "<h1>Nancy</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -196,6 +197,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 18110,
 			"text": "<h1>Lorient</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -206,6 +208,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 16078,
 			"text": "<h1>Bastia</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -216,6 +219,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 16098,
 			"text": "<h1>Dijon</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -226,6 +230,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 48527,
 			"text": "<h1>Paris SG</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -236,6 +241,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 50000,
 			"text": "<h1>Lille</h1><br /><p>Here we say something about Lille</p>"
 		},
 		{
@@ -246,6 +252,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 27500,
 			"text": "<h1>Strasbourg</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -256,6 +263,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 12097,
 			"text": "<h1>Amiens SC</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -266,6 +274,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 26600,
 			"text": "<h1>Metz</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -276,6 +285,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 20400,
 			"text": "<h1>Troyes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -286,6 +296,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 59186,
 			"text": "<h1>Lyon</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -296,6 +307,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 41500,
 			"text": "<h1>St Ettiene</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -306,6 +318,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 18532,
 			"text": "<h1>Monnaco</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -316,6 +329,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 35624,
 			"text": "<h1>Nice</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -326,6 +340,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 67000,
 			"text": "<h1>Marseille</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -336,6 +351,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 32900,
 			"text": "<h1>Montpellier</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -346,6 +362,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 35472,
 			"text": "<h1>Toulouse</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -356,6 +373,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 42115,
 			"text": "<h1>Bordeaux</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -366,6 +384,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 37473,
 			"text": "<h1>Nantes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -376,6 +395,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 16500,
 			"text": "<h1>Angers</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -386,6 +406,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 29778,
 			"text": "<h1>Rennes</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -396,6 +417,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 18250,
 			"text": "<h1>Guingamp</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		},
 		{
@@ -406,6 +428,7 @@ window.JSMaps.maps.france = {
 			"hoverColor": "#E32F02",
 			"selectedColor": "#feb41c",
 			"url": "http://jsmaps.io",
+			"capacity" : 21000,
 			"text": "<h1>Caen</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		}
 	]

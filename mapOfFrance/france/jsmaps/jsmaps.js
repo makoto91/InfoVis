@@ -555,10 +555,11 @@
 		  
 		  if(isTeamHome){
 			  pins[i].additionalPinInfo = additionalPinInfo;
-			  pins[i].text = `<h1>` + additionalPinInfo["teamHome"] + ` - ` + additionalPinInfo["teamAway"] + `</h1>
+			  pins[i].text = `<center style="padding-left: 15px;"><h1>` + additionalPinInfo["teamHome"] + ` - ` + additionalPinInfo["teamAway"] + `</h1>
 			  <br /><p>Result: ` + additionalPinInfo["goalsHome"] + ` - ` + additionalPinInfo["goalsAway"] +`</p>
-			  <br /><p>Number of spectators: ` + additionalPinInfo["pub"] + `</p>
-			  <div class="col-sm-12" id="pieChartContainer" style="height: 200px; opacity: 0.7;">
+			  <br /><p>Stadium capacity: ` + pins[i].capacity +`</p>
+			  <br /><p>Number of spectators: ` + additionalPinInfo["pub"] + `</p></center>
+			  <div class="col-sm-12" id="pieChartContainer" style="height: 200px;">
 		</div>`;
 		
 		  }else if(isTeamAway){
@@ -635,23 +636,31 @@
             if ($.isFunction(settings.onStateClick)) {
               settings.onStateClick.call(this, target);
             }
-			var atendancePrecentage = Number.parseFloat((target.additionalPinInfo["pub"] / 60000) * 100).toFixed(2);
+			var atendancePrecentage = Number.parseFloat((target.additionalPinInfo["pub"] / target.capacity) * 100).toFixed(2);
 			var myPieChart = new CanvasJS.Chart("pieChartContainer", {
                 animationEnabled: true,
                 theme: "light5",
+				fontColor: "white",
                 title: {
-                    text: "Attendance precentage"
+                    text: "Attendance precentage",
+					fontColor: "white"
                 },
+				legend : {
+					fontColor: "white",
+				 },
                 data: [{
+				indexLabelFontColor: "white",
+				fontColor: "white",
 				type: "pie",
 				startAngle: 240,
 				yValueFormatString: "##0.00\"%\"",
 				indexLabel: "{label} {y}",
 				dataPoints: [
-					{y: atendancePrecentage, label: "Full ( " + target.additionalPinInfo["pub"] + " )"},
-					{y: 100 - atendancePrecentage, label: "Empty ( " + (60000 - target.additionalPinInfo["pub"]) + " )"}
-				]
-			}]
+					{y: atendancePrecentage, label: "Full ( " + target.additionalPinInfo["pub"] + " )", color: "#ffc90e", fontColor: "black"},
+					{y: 100 - atendancePrecentage, label: "Empty ( " + (target.capacity - target.additionalPinInfo["pub"]) + " )", color: "#CCCCCC", fontColor: "black"}
+				],
+			}],
+			backgroundColor: "rgba(255,255,255,0)"
 				
             });
 			myPieChart.render();
